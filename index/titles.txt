@@ -1,0 +1,20 @@
+mind | Imagine the plan already failed, then ask why | Performing a Project Premortem (Gary Klein) | decision-making,planning
+world | Billions of people eat because of one chemistry trick | Enriching the Earth (Vaclav Smil) | science,food,history
+life | Divide 72 by the rate to see how fast money doubles | Rule of 72 | money,compounding
+survival | If an adult collapses, call, then push hard and fast | Hands-Only CPR (American Heart Association) | first-aid,cpr
+mind | Sort every worry into yours and not yours | Enchiridion (Epictetus) | stoicism,resilience
+world | Trade pays even when one side is better at everything | On the Principles of Political Economy and Taxation (David Ricardo) | economics,trade
+life | Decide when and where, not just what | Implementation intentions and goal achievement: a meta-analysis (Peter Gollwitzer and Paschal Sheeran) | habits,goals
+survival | Stop serious bleeding with hard, direct pressure | Stop the Bleed (American College of Surgeons) | first-aid,bleeding
+mind | Ask how long this usually takes before guessing | Thinking, Fast and Slow (Daniel Kahneman) | forecasting,decision-making,biases
+world | The sky is blue because air scatters short waves | Rayleigh scattering | science,physics
+life | Know your walk-away option before you negotiate | Getting to Yes (Roger Fisher and William Ury) | negotiation
+survival | Drowning is quiet, so watch for silence, not splashing | Drowning Doesn't Look Like Drowning (Mario Vittone) | water-safety,drowning
+mind | To get something right, list how to get it wrong | Poor Charlie's Almanack (Charlie Munger) | mental-models,problem-solving
+world | A steel box made world trade cheap | The Box (Marc Levinson) | history,trade,technology
+life | Your afternoon coffee is still in you at bedtime | Why We Sleep (Matthew Walker) | sleep,health
+survival | Confusion in the heat means cool them now | Heat Stress: Heat Related Illness (CDC NIOSH) | heat,first-aid,exercise
+mind | Ask: and then what? | The Most Important Thing (Howard Marks) | mental-models,investing,decision-making
+world | The printing press turned one monk's protest into a movement | The Printing Press as an Agent of Change (Elizabeth Eisenstein) | history,technology,media
+life | Repeat their last few words to get them talking | Never Split the Difference (Chris Voss) | communication,negotiation,listening
+survival | In trouble outdoors, shelter often comes before water | Rule of threes (survival) | outdoors,priorities

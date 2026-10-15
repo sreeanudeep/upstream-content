@@ -44,8 +44,8 @@ def check_idea(idea, pack_id, n, errors):
         value = idea.get(field)
         if not isinstance(value, str) or not lo <= len(value) <= hi:
             errors.append(f"{where}: {field} must be {lo}-{hi} characters")
-        elif "!" in value:
-            errors.append(f"{where}: no exclamation marks in {field}")
+        elif any(c in value for c in "!—–"):
+            errors.append(f"{where}: no exclamation marks or long dashes in {field}")
     deeper = idea.get("deeper")
     if isinstance(deeper, str) and len([p for p in deeper.split("\n\n") if p.strip()]) != 3:
         errors.append(f"{where}: deeper must be three paragraphs separated by a blank line")
@@ -137,6 +137,7 @@ def self_check():
         (bad(topic="sport"), "topic"),
         (bad(body="too short"), "body"),
         (bad(title="Wow, look at this!"), "exclamation"),
+        (bad(title="Plans fail — plan for it"), "long dashes"),
         (bad(id="2026-w01-002"), "id must be"),
         (bad(deeper="one paragraph " * 40), "three paragraphs"),
         (bad(tags=["Bad Tag"]), "tags"),

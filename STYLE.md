@@ -4,8 +4,8 @@ The reader is one person, often between gym sets, who swapped doomscrolling for 
 
 ## One idea per card
 - **title** (≤ 80 chars): the claim itself, not a teaser. "Plan the failure before it happens", not "The surprising trick experts use".
-- **body** (150–600 chars): the idea in plain words, with one concrete detail (a number, a name, a scene). Readable in about 30 seconds.
-- **deeper** (400–1400 chars), three short paragraphs in this order:
+- **body** (150-600 chars): the idea in plain words, with one concrete detail (a number, a name, a scene). Readable in about 30 seconds.
+- **deeper** (400-1400 chars), three short paragraphs in this order:
   1. *Why it works*: the mechanism or the evidence.
   2. *Example*: a specific case.
   3. *Apply it today*: one action small enough to do this week, starting with a verb.
@@ -18,7 +18,7 @@ The reader is one person, often between gym sets, who swapped doomscrolling for 
 - **Survival & safety**: follow current mainstream guidance (Red Cross, American Heart Association, WHO, CDC, national emergency services). Start the action with calling for help where that applies. End *Apply it today* by pointing to hands-on training; reading is not training.
 
 ## Voice
-- Second person, direct, warm, no hype. No "game-changer", "unlock", "secret", "hack", "mind-blowing", exclamation marks or emoji.
+- Second person, direct, warm, no hype. No "game-changer", "unlock", "secret", "hack", "mind-blowing", exclamation marks, emoji, or long dashes (use a comma, colon or full stop instead).
 - Concrete beats abstract. Short sentences. Explain any jargon the first time it appears.
 - Not self-help mush: every card must contain something checkable or usable.
 
@@ -29,4 +29,4 @@ The reader is one person, often between gym sets, who swapped doomscrolling for 
 - `survival`: first aid, emergencies, disasters, outdoors, personal and online safety.
 
 ## Tags
-1–4 per idea, lowercase, hyphenated (`decision-making`, `stoicism`, `first-aid`). Reuse existing tags from `index/titles.txt` before inventing new ones.
+1-4 per idea, lowercase, hyphenated (`decision-making`, `stoicism`, `first-aid`). Reuse existing tags from `index/titles.txt` before inventing new ones.

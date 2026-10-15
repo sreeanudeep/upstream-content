@@ -8,6 +8,14 @@
    "bytes": 24922,
    "sha256": "2811170734342e0c1f82e969fda3e26ee45ea28801714ee737f93bb61ebaacd7",
    "publishedAt": "2026-10-15"
+  },
+  {
+   "id": "2026-w42-b",
+   "path": "packs/2026-w42-b.json",
+   "count": 200,
+   "bytes": 262789,
+   "sha256": "e1e7a91ee7d23becd0285440b56887de8d31ea7cd6ba7cbf858e1d6a2f638f8a",
+   "publishedAt": "2026-10-15"
   }
  ]
 }

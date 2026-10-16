@@ -1,0 +1,109 @@
+{
+  "id": "j-2026-w42-how-economy-works",
+  "title": "See how the modern economy really works",
+  "summary": "For curious readers new to economics: six steps from what makes money valuable, through prices, interest rates and spending loops, to why lean supply chains break.",
+  "topic": "world",
+  "publishedAt": "2026-10-16",
+  "steps": [
+    {
+      "id": "j-2026-w42-how-economy-works-001",
+      "topic": "world",
+      "tags": [
+        "money",
+        "economics",
+        "history"
+      ],
+      "title": "Paper money works because everyone expects everyone else to take it",
+      "body": "A banknote is just printed paper. It has value because you expect the shop to accept it, and the shop expects its supplier to accept it too. Governments add a push: they demand taxes in their own currency, so people need it. Money is a shared expectation, which is why it can fail when that expectation breaks.",
+      "deeper": "Money that a government declares legal tender but that is not backed by a commodity like gold is called fiat money. Its value rests on trust, on legal rules and on the steady demand created by taxes that must be paid in it. Nobody needs to value the paper itself, only to believe the next person will take it.\n\nThink of a note in your wallet. You would swap an hour of work for it, because you are confident a grocer will swap bread for it tomorrow. When that confidence collapses, as in the German hyperinflation of the 1920s, people rush to spend money before it loses value and goods become the safer store of wealth.\n\nApply it today: next time you pay for something, notice the chain of trust behind the payment. Ask yourself who has to believe in this currency for your payment to work, and write down two things that would weaken that belief.",
+      "source": {
+        "kind": "wikipedia",
+        "title": "Fiat money",
+        "url": "https://en.wikipedia.org/wiki/Fiat_money"
+      }
+    },
+    {
+      "id": "j-2026-w42-how-economy-works-002",
+      "topic": "world",
+      "tags": [
+        "economics",
+        "markets",
+        "policy"
+      ],
+      "title": "Capping a price below what buyers will pay creates a shortage",
+      "body": "Prices are not just labels, they decide who gets scarce goods. If a rule holds a price below the level where supply meets demand, more people want the item than sellers will provide. The queue, the waiting list or the black market then does the rationing that the price would have done.",
+      "deeper": "A price ceiling is a legal maximum price. When it sits below the natural market price, buyers want more than producers are willing to supply, so the good runs short. Sellers also have less reason to improve quality or to produce more, because the extra income is capped.\n\nRent control is the common case. Holding rents under market level helps current tenants, but fewer new homes may be offered for rent and landlords may spend less on upkeep. Economists still argue about how big these effects are, and design details matter a great deal.\n\nApply it today: pick one thing that is hard to get, such as a concert ticket, a parking space or a doctor's appointment. Ask what the price is, who it is aimed at and what other thing (time in a queue, connections, luck) is rationing it instead.",
+      "source": {
+        "kind": "wikipedia",
+        "title": "Price ceiling",
+        "url": "https://en.wikipedia.org/wiki/Price_ceiling"
+      }
+    },
+    {
+      "id": "j-2026-w42-how-economy-works-003",
+      "topic": "world",
+      "tags": [
+        "economics",
+        "money",
+        "policy"
+      ],
+      "title": "A central bank steers the economy by moving one short interest rate",
+      "body": "Central banks do not set the price of your coffee or your mortgage directly. They set the rate they pay on money held by commercial banks, and that spreads outward into loan rates, savings rates and spending. Raising it cools demand and slows inflation. Cutting it makes borrowing cheaper and encourages spending.",
+      "deeper": "The bank's policy rate is the anchor for other interest rates. When it goes up, banks charge more for loans and pay more on savings, so households and firms borrow and spend a little less. Lower spending eases pressure on prices. When it falls, the reverse happens. The effect takes time and is not precise.\n\nSuppose a central bank raises its rate while prices are climbing fast. A family with a variable-rate mortgage sees payments rise and cancels a holiday. A firm delays opening a new shop because the loan costs more. Across millions of choices, demand cools. The Bank of England explains this chain in its monetary policy guidance.\n\nApply it today: find the current policy rate for your country's central bank, then look at the rate on your own savings account or loan. Write down whether the gap between them has moved, and whether it changes any choice you are about to make.",
+      "source": {
+        "kind": "organization",
+        "title": "How does monetary policy work? (Bank of England)"
+      }
+    },
+    {
+      "id": "j-2026-w42-how-economy-works-004",
+      "topic": "world",
+      "tags": [
+        "economics",
+        "money",
+        "systems"
+      ],
+      "title": "Your spending is someone else's income, so a pullback spreads",
+      "body": "Every payment you make lands in someone's pocket as income. They then spend part of it, and so on around the loop. This is why a sudden fall in spending can shrink the whole economy: when many people cut back together, incomes fall, and the cuts become larger than anyone planned.",
+      "deeper": "The idea is the circular flow of income: households earn from firms and spend on what firms sell. Saving is sensible for one household, yet if everyone saves more at once, firms sell less and pay less, so incomes drop. Economists call this the paradox of thrift. Credit matters here because borrowing lets spending run ahead of income, and repaying it pulls spending below.\n\nImagine a cafe near an office. When workers there get nervous and skip lunch out, the cafe cuts a barista's shifts. The barista then stops eating out and cancels a haircut. The barber has fewer customers. One small cutback travels through several households.\n\nApply it today: trace one purchase you make this week. Name who receives the money and one thing that person might buy with it. Doing so makes the loop visible without asking you to spend more than you should.",
+      "source": {
+        "kind": "wikipedia",
+        "title": "Paradox of thrift",
+        "url": "https://en.wikipedia.org/wiki/Paradox_of_thrift"
+      }
+    },
+    {
+      "id": "j-2026-w42-how-economy-works-005",
+      "topic": "world",
+      "tags": [
+        "business",
+        "trade",
+        "systems"
+      ],
+      "title": "Holding almost no stock cuts costs by making each delivery arrive on time",
+      "body": "Many factories keep only a few hours of parts and expect suppliers to deliver just as they are needed. This frees up cash, space and storage costs that would otherwise sit in warehouses. It works because each link in the chain is planned tightly around the next one.",
+      "deeper": "Just-in-time production grew out of Toyota's methods after the Second World War. Parts arrive close to when they are used, which cuts the money tied up in inventory and exposes problems in the process quickly, because there is no pile of spares to hide them. It rewards close coordination and reliable suppliers.\n\nPicture a car plant that receives seats a few hours before they are fitted. The plant saves on warehouse space and on money locked in unused parts. The cost is that a late truck can stop the line, and so the supplier is often placed close by and is tightly managed.\n\nApply it today: look at your own kitchen or workplace. Pick one item you keep a large stock of, and ask what it costs in cash and space. Pick another you run out of often, and ask whether a small buffer would be cheaper than the disruption.",
+      "source": {
+        "kind": "wikipedia",
+        "title": "Just-in-time manufacturing",
+        "url": "https://en.wikipedia.org/wiki/Just-in-time_manufacturing"
+      }
+    },
+    {
+      "id": "j-2026-w42-how-economy-works-006",
+      "topic": "world",
+      "tags": [
+        "economics",
+        "business",
+        "systems"
+      ],
+      "title": "A lean supply chain is efficient until a shock, so resilience costs slack",
+      "body": "Efficiency and resilience pull in opposite directions. A supply chain with no spare stock, one supplier per part and no backup route is cheap on a normal day, and has nothing to fall back on during a bad one. Robust systems pay for slack they hope never to use.",
+      "deeper": "Resilience means a system can absorb a shock and keep working. Buffers such as spare inventory, a second supplier or an alternate route add cost in good times and save a great deal in bad times. The trade-off is hard to see because the benefit only appears when something goes wrong, so spare capacity often looks like waste on a spreadsheet.\n\nWhen a single canal, port or factory is the only path for a part, a disruption there reaches every business that depends on it. Firms that had a second source or some extra stock could keep producing, while those with none waited. The earlier cases of a blocked canal and shipping crises show how far one link can reach.\n\nApply it today: list one thing in your life that has a single point of failure, such as one phone charger, one income source or one route to work. Choose a cheap backup and set it up this week.",
+      "source": {
+        "kind": "wikipedia",
+        "title": "Supply chain resilience"
+      }
+    }
+  ]
+}

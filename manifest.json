@@ -26,5 +26,42 @@
    "publishedAt": "2026-10-15"
   }
  ],
- "journeys": []
+ "journeys": [
+  {
+   "id": "j-2026-w42-first-five-minutes",
+   "path": "journeys/j-2026-w42-first-five-minutes.json",
+   "title": "Your first five minutes in a medical emergency",
+   "steps": 6,
+   "bytes": 8935,
+   "sha256": "28d64fb044badd0d51a944a8f3f89c7516bafcbc797d25cf95051a55ea2805ba",
+   "publishedAt": "2026-10-16"
+  },
+  {
+   "id": "j-2026-w42-how-economy-works",
+   "path": "journeys/j-2026-w42-how-economy-works.json",
+   "title": "See how the modern economy really works",
+   "steps": 6,
+   "bytes": 9720,
+   "sha256": "7563bb73b1af0596976fb68e1e4ec6c9b3e2e4787e859d3823d00a2e20e438b9",
+   "publishedAt": "2026-10-16"
+  },
+  {
+   "id": "j-2026-w42-sleep-routine",
+   "path": "journeys/j-2026-w42-sleep-routine.json",
+   "title": "Build a sleep routine that sticks",
+   "steps": 7,
+   "bytes": 9435,
+   "sha256": "4c6b5baeb0f5299db72af22b62346dcb60f07bf293cd66b82caee9fdd7434544",
+   "publishedAt": "2026-10-16"
+  },
+  {
+   "id": "j-2026-w42-stoic-week",
+   "path": "journeys/j-2026-w42-stoic-week.json",
+   "title": "A practical week of Stoic thinking",
+   "steps": 6,
+   "bytes": 9192,
+   "sha256": "1985b110022e3896075b5b85e8d3a8c5f114b855b8b2e1a93a181f130c9ca146",
+   "publishedAt": "2026-10-16"
+  }
+ ]
 }

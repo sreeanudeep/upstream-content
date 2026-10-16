@@ -1,0 +1,124 @@
+{
+  "id": "j-2026-w42-sleep-routine",
+  "title": "Build a sleep routine that sticks",
+  "summary": "For anyone who keeps restarting a sleep plan. Six steps cover a protected bedtime, a repeatable wind-down, habit stacking, a simple log, a bad night and a two week review.",
+  "topic": "life",
+  "publishedAt": "2026-10-16",
+  "steps": [
+    {
+      "id": "j-2026-w42-sleep-routine-001",
+      "topic": "life",
+      "tags": [
+        "sleep",
+        "habits",
+        "goals"
+      ],
+      "title": "Count back from your wake time to set a bedtime you protect",
+      "body": "Start with the time you must get up, then count backward to find a bedtime. Write it down as a target, for example 10:45 pm for a 6:45 am alarm, and treat it like an appointment. A routine needs a fixed anchor before anything else can be built on it.",
+      "deeper": "Why it works: a bedtime you decide in advance removes a nightly negotiation with yourself. Public health guidance such as the NHS advice on sleep recommends going to bed at a regular time, because a steady pattern lets your body expect sleep rather than guess.\n\nExample: your alarm is at 6:45 am and you want about eight hours in bed. You count back to 10:45 pm and put a calendar alert at 10:15 pm that says only 'start winding down'. When a friend texts at 10:30, you already know your answer.\n\nApply it today: pick your wake time, count back, write the bedtime on a sticky note by your bed, and set one alert 30 minutes before it.",
+      "source": {
+        "kind": "article",
+        "title": "How to fall asleep faster and sleep better (NHS Every Mind Matters)"
+      }
+    },
+    {
+      "id": "j-2026-w42-sleep-routine-002",
+      "topic": "life",
+      "tags": [
+        "sleep",
+        "habits",
+        "health"
+      ],
+      "title": "Repeat the same short wind-down so your body learns the cue",
+      "body": "Choose two or three calm actions and do them in the same order before bed each night, such as dimming lamps, setting out tomorrow's clothes and reading a few pages of a paper book. The sequence becomes a signal. After enough repeats, the first step starts to make you feel sleepy.",
+      "deeper": "Why it works: your brain links a repeated sequence with what comes next. Sleep organizations such as the Sleep Foundation recommend a consistent, relaxing pre-bed routine for this reason. Calm, low-effort steps also give your mind a way to shift out of the day.\n\nExample: Maya turns off the kitchen light, lays out her gym bag, then reads one chapter of a novel in bed. By the second week, picking up the gym bag already feels like the start of the night.\n\nApply it today: write down three calm steps you can finish in 20 minutes, and do them in the same order tonight.",
+      "source": {
+        "kind": "organization",
+        "title": "Bedtime Routine (Sleep Foundation)"
+      }
+    },
+    {
+      "id": "j-2026-w42-sleep-routine-003",
+      "topic": "life",
+      "tags": [
+        "habits",
+        "sleep",
+        "psychology"
+      ],
+      "title": "Attach the wind-down to something you already do every night",
+      "body": "A new routine sticks faster when it hangs on an old one. After you brush your teeth, you plug in your phone across the room. After you plug it in, you lay out tomorrow's clothes. Each finished action is the trigger for the next, so you stop relying on memory or willpower.",
+      "deeper": "Why it works: James Clear calls this habit stacking in Atomic Habits. You use a habit that already runs on autopilot as the cue for a new one, using the pattern 'After I do X, I will do Y'. The old habit does the remembering for you.\n\nExample: you already brush your teeth every night. Your stack becomes: after I brush my teeth, I fill a glass of water. After I fill the glass, I turn on the reading lamp. After the lamp is on, I open my book.\n\nApply it today: pick the one thing you never skip at night and finish this sentence on paper: 'After I ___, I will start my wind-down.'",
+      "source": {
+        "kind": "book",
+        "title": "Atomic Habits",
+        "author": "James Clear"
+      }
+    },
+    {
+      "id": "j-2026-w42-sleep-routine-004",
+      "topic": "life",
+      "tags": [
+        "habits",
+        "goals",
+        "motivation"
+      ],
+      "title": "Start the routine so tiny that skipping it feels silly",
+      "body": "If the full routine feels like too much, shrink it. Commit to one action that takes 30 seconds, like setting out your book or switching on the lamp. A tiny habit you do every night beats an ambitious one you drop by Thursday, and you can grow it once it feels automatic.",
+      "deeper": "Why it works: BJ Fogg's Tiny Habits method holds that behavior happens when motivation, ability and a prompt meet. Making the action very small raises ability, so it works even on tired nights. He also advises celebrating right after you finish, which helps the habit take hold.\n\nExample: your goal is a 20 minute wind-down, but tonight you only do the first step: place your book on the pillow. You smile, say 'nice', and go on with your evening. After a week, adding the lamp and the reading is easy.\n\nApply it today: shrink your routine to its smallest first step, do it after your anchor habit, and give yourself a quick small celebration.",
+      "source": {
+        "kind": "book",
+        "title": "Tiny Habits: The Small Changes That Change Everything",
+        "author": "BJ Fogg"
+      }
+    },
+    {
+      "id": "j-2026-w42-sleep-routine-005",
+      "topic": "life",
+      "tags": [
+        "sleep",
+        "health",
+        "habits"
+      ],
+      "title": "Keep a two minute sleep log so you can see what is really happening",
+      "body": "Each morning, write down when you went to bed, about when you fell asleep, when you woke up and how rested you feel from 1 to 5. Add a note about anything unusual, like a late meal or a stressful day. A simple log shows patterns your memory will blur or exaggerate.",
+      "deeper": "Why it works: a sleep diary is a standard tool in sleep medicine, and the American Academy of Sleep Medicine offers one for patients. Written records are more reliable than a vague feeling that you slept badly, and they show whether your routine is changing anything.\n\nExample: after ten days, Sam sees that every night he went to bed before 11 pm he rated his morning 4 or 5, and every later night he rated it 2 or 3. That one pattern is more useful than a month of guessing.\n\nApply it today: put a notebook and pen next to your bed, and tomorrow morning write down five lines before you check your phone.",
+      "source": {
+        "kind": "organization",
+        "title": "Sleep diary (American Academy of Sleep Medicine)"
+      }
+    },
+    {
+      "id": "j-2026-w42-sleep-routine-006",
+      "topic": "life",
+      "tags": [
+        "sleep",
+        "insomnia",
+        "health"
+      ],
+      "title": "After a bad night, keep the routine and skip the make-up tricks",
+      "body": "One poor night is normal and does not mean your routine failed. Do not cancel plans for the evening, load up on caffeine, or go to bed hours early to catch up. Run your usual wind-down at the usual time, and let your body's sleep drive do the work tonight.",
+      "deeper": "Why it works: worrying about sleep tends to make it harder to fall asleep, and the NHS advises against lying there anxious about it. Cognitive behavioral therapy for insomnia, a well studied approach, works by keeping the pattern steady rather than reacting to each night. Extra bed time and irregular timing can blur the signal your routine builds.\n\nExample: you slept five restless hours after a late work call. Instead of going to bed at 8:30 pm, you go through your normal steps at 10:15, note the bad night in your log with one line, and move on.\n\nApply it today: write a one line rule now, such as 'Bad night? Same routine tonight', and tape it next to your log.",
+      "source": {
+        "kind": "article",
+        "title": "Insomnia (NHS)"
+      }
+    },
+    {
+      "id": "j-2026-w42-sleep-routine-007",
+      "topic": "life",
+      "tags": [
+        "sleep",
+        "habits",
+        "goals"
+      ],
+      "title": "Review your log after two weeks and change only one thing",
+      "body": "After two weeks, read your log from start to finish. Look for the pattern, such as which bedtimes gave the best mornings or which step you kept skipping. Then adjust one thing, like moving the bedtime 15 minutes or shrinking a step, and test it for another two weeks.",
+      "deeper": "Why it works: changing one variable at a time lets you tell what helped. Your log turns a feeling into evidence. Habit research from University College London found that building a habit takes weeks, not days, and that missing a single day did not derail the process, so a review point is better than daily judgment.\n\nExample: Priya reads her log and sees she skips the wind-down on gym nights. She moves her first step to right after her post-workout shower and tests only that change for two more weeks.\n\nApply it today: put a review date 14 days from now in your calendar. If sleep problems persist despite a steady routine, talk to a doctor or pharmacist.",
+      "source": {
+        "kind": "paper",
+        "title": "How are habits formed: Modelling habit formation in the real world",
+        "author": "Phillippa Lally and colleagues"
+      }
+    }
+  ]
+}

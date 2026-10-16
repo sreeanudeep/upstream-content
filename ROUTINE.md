@@ -15,7 +15,13 @@ You are writing next week's idea pack for Upstream, a personal microlearning app
    `kind` is one of `book`, `paper`, `article`, `organization`, `wikipedia`, `talk`. `author` and `url` are optional (an organization has no author); `url` must be https.
    Idea ids are the pack id plus a 3-digit number, in order.
    Spread the sources: no single source more than 3 times in a pack. Mix famous ideas with less known but solid ones.
-4. Run `python tools/build.py`. It validates every pack and rebuilds `manifest.json` and `index/titles.txt`. If it reports errors, fix the pack and run it again. **Never push while it fails.**
-5. Commit with the message `pack: <id>` and push to `main`.
+4. Write one journey: read `index/journeys.txt` (journeys already published), pick a theme not yet covered, rotating topics week to week, and write `journeys/j-<pack id>-<slug>.json`:
+   ```json
+   {"id": "j-2026-w43-stoic-week", "title": "Think like a Stoic for a week", "summary": "...", "topic": "mind",
+    "publishedAt": "2026-10-25", "steps": [ {"id": "j-2026-w43-stoic-week-001", "topic": "mind", ...}, ... ]}
+   ```
+   5-7 steps, all in the journey's topic, following the Journeys section of `STYLE.md`. No step may repeat an idea in `index/titles.txt`.
+5. Run `python tools/build.py`. It validates every pack and rebuilds `manifest.json` and `index/titles.txt`. If it reports errors, fix the pack and run it again. **Never push while it fails.**
+6. Commit with the message `pack: <id>` and push to `main`.
 
 If you cannot finish (an error you cannot fix, or you are out of time), push nothing. A missing week is fine; a broken pack is not.

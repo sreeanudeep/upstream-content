@@ -19,6 +19,7 @@ IDEA_KEYS = {"id", "topic", "tags", "title", "body", "deeper", "source"}
 SOURCE_KEYS = {"kind", "title", "author", "url"}
 TAG = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 PACK_ID = re.compile(r"^\d{4}-w\d{2}(-[a-z])?$")
+JOURNEY_ID = re.compile(r"^j-\d{4}-w\d{2}-[a-z0-9]+(-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
@@ -98,13 +99,53 @@ def build(root, write=True):
             "id": pack_id, "path": f"packs/{path.name}", "count": len(ideas), "bytes": len(raw),
             "sha256": hashlib.sha256(raw).hexdigest(), "publishedAt": pack.get("publishedAt"),
         })
+    journeys, journey_index = [], []
+    for path in sorted((root / "journeys").glob("*.json")):
+        raw = path.read_bytes()
+        try:
+            j = json.loads(raw)
+        except ValueError as e:
+            errors.append(f"{path.name}: invalid JSON ({e})")
+            continue
+        jid = j.get("id") if isinstance(j, dict) else None
+        if not isinstance(jid, str) or not JOURNEY_ID.match(jid) or path.name != f"{jid}.json":
+            errors.append(f"{path.name}: id must be j-YYYY-wWW-slug and match the file name")
+            continue
+        if not isinstance(j.get("title"), str) or not 10 <= len(j["title"]) <= 60:
+            errors.append(f"{jid}: title must be 10-60 characters")
+        if not isinstance(j.get("summary"), str) or not 40 <= len(j["summary"]) <= 240:
+            errors.append(f"{jid}: summary must be 40-240 characters")
+        if j.get("topic") not in TOPICS:
+            errors.append(f"{jid}: topic must be one of {sorted(TOPICS)}")
+        if not isinstance(j.get("publishedAt"), str) or not DATE.match(j["publishedAt"]):
+            errors.append(f"{jid}: publishedAt must be YYYY-MM-DD")
+        steps = j.get("steps")
+        if not isinstance(steps, list) or not 5 <= len(steps) <= 7:
+            errors.append(f"{jid}: steps must be a list of 5-7 ideas")
+            continue
+        for n, step in enumerate(steps, 1):
+            check_idea(step, jid, n, errors)
+            if isinstance(step, dict) and step.get("topic") != j.get("topic"):
+                errors.append(f"{jid} #{n}: step topic must match the journey topic")
+            if isinstance(step, dict) and isinstance(step.get("title"), str):
+                key = norm(step["title"])
+                if key in seen_titles:
+                    errors.append(f"{jid} #{n}: duplicate title (also {seen_titles[key]})")
+                seen_titles[key] = f"{jid} #{n}"
+        journey_index.append(f"{j.get('topic')} | {j.get('title')} | {j.get('summary')}")
+        journeys.append({
+            "id": jid, "path": f"journeys/{path.name}", "title": j.get("title"), "steps": len(steps), "bytes": len(raw),
+            "sha256": hashlib.sha256(raw).hexdigest(), "publishedAt": j.get("publishedAt"),
+        })
     if errors or not write:
         return errors
     entries.sort(key=lambda e: (e["publishedAt"], e["id"]))
-    manifest = {"schema": 1, "packs": entries}
+    journeys.sort(key=lambda e: (e["publishedAt"], e["id"]))
+    manifest = {"schema": 1, "packs": entries, "journeys": journeys}
     (root / "manifest.json").write_text(json.dumps(manifest, indent=1) + "\n", encoding="utf-8", newline="\n")
     (root / "index").mkdir(exist_ok=True)
     (root / "index" / "titles.txt").write_text("\n".join(index) + "\n", encoding="utf-8", newline="\n")
+    (root / "index" / "journeys.txt").write_text("\n".join(journey_index) + "\n", encoding="utf-8", newline="\n")
     return []
 
 
@@ -150,6 +191,31 @@ def self_check():
     dup = bad(id="2026-w02-001", title="Plan the FAILURE first.")
     errs, _, _ = run(good, extra=[("2026-w02", [dup])])
     assert any("duplicate title" in e for e in errs), errs
+    def journey(jid, n, topic="mind"):
+        steps = []
+        for k in range(1, n + 1):
+            st = copy.deepcopy(good)
+            st.update(id=f"{jid}-{k:03d}", title=f"Journey step number {k}", topic=topic)
+            steps.append(st)
+        return {"id": jid, "title": "Think like a Stoic", "summary": "Six short steps from the Enchiridion to a calmer week.",
+                "topic": "mind", "publishedAt": "2026-01-01", "steps": steps}
+
+    def run_journey(j):
+        with tempfile.TemporaryDirectory() as d:
+            (Path(d) / "packs").mkdir()
+            (Path(d) / "journeys").mkdir()
+            (Path(d) / "journeys" / f"{j['id']}.json").write_text(json.dumps(j), encoding="utf-8", newline="\n")
+            errs = build(d)
+            manifest = json.loads((Path(d) / "manifest.json").read_text()) if not errs else None
+            return errs, manifest
+
+    errs, manifest = run_journey(journey("j-2026-w01-stoic", 6))
+    assert errs == [], errs
+    assert manifest["journeys"][0]["steps"] == 6 and manifest["packs"] == []
+    errs, _ = run_journey(journey("j-2026-w01-stoic", 4))
+    assert any("5-7" in e for e in errs), errs
+    errs, _ = run_journey(journey("j-2026-w01-stoic", 6, topic="life"))
+    assert any("journey topic" in e for e in errs), errs
     print("self-check passed")
 
 

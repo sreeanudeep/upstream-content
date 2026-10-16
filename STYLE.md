@@ -30,3 +30,6 @@ The reader is one person, often between gym sets, who swapped doomscrolling for 
 
 ## Tags
 1-4 per idea, lowercase, hyphenated (`decision-making`, `stoicism`, `first-aid`). Reuse existing tags from `index/titles.txt` before inventing new ones.
+
+## Journeys
+A journey is a short course: 5-7 steps on one theme, in one topic, read in order. Each step is a full idea card (same fields and limits as above) that builds on the step before it, from the core idea to practice. The **title** (10-60 chars) names what you will be able to do or see by the end ("Stop serious bleeding until help arrives", "Think like a Stoic for a week"). The **summary** (40-240 chars) says who it is for and what the steps cover. Step ids are the journey id plus a 3-digit number.

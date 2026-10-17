@@ -1,0 +1,108 @@
+{
+ "id": "j-2026-w42-d-decide-uncertainty",
+ "title": "Make better decisions under uncertainty",
+ "summary": "For anyone facing choices without clear answers. Six steps cover kinds of uncertainty, turning words into odds, weighing outcomes, buying information, exit rules and a pre-decision check.",
+ "topic": "mind",
+ "publishedAt": "2026-10-17",
+ "steps": [
+  {
+   "id": "j-2026-w42-d-decide-uncertainty-001",
+   "topic": "mind",
+   "tags": [
+    "decision-making",
+    "risk",
+    "uncertainty"
+   ],
+   "title": "Know whether you face risk or true uncertainty",
+   "body": "Economist Frank Knight split the unknown in two. Risk is when you know the odds, like a die roll. Uncertainty is when you do not, like whether a new rival will appear. Different problems need different tools, so name which one you are in first.",
+   "deeper": "Why it works: Knight argued in 1921 that measurable risk and unmeasurable uncertainty are different things. With risk you can calculate and insure. With uncertainty the odds themselves are unknown, so the right moves are to gather evidence, stay flexible and avoid ruin, not to pretend a precise number exists.\n\nExample: A casino roulette wheel is risk: the odds are fixed and published. Whether a job offer in a young company will still exist in three years is uncertainty: nobody can look up the odds, only form a rough judgment from partial evidence.\n\nApply it today: Pick one pending decision and write one line: risk (I can estimate the odds from past data) or uncertainty (I cannot). If it is uncertainty, write down the one thing that would most shrink what you do not know.",
+   "source": {
+    "kind": "wikipedia",
+    "title": "Knightian uncertainty"
+   }
+  },
+  {
+   "id": "j-2026-w42-d-decide-uncertainty-002",
+   "topic": "mind",
+   "tags": [
+    "decision-making",
+    "probability",
+    "communication"
+   ],
+   "title": "Swap vague words like 'likely' for a number range",
+   "body": "Say 'there is a serious possibility' and two listeners may hear very different odds. Replacing fuzzy words with a rough percentage range forces you to think and lets others see what you mean. A guess of 60 to 70 percent beats 'probably'.",
+   "deeper": "Why it works: Intelligence analyst Sherman Kent noticed that colleagues used words of estimation to mean widely different odds, and proposed pairing such words with numerical ranges. A number is checkable later, a word is not. Even a rough range exposes whether you are nearly sure or barely leaning.\n\nExample: Kent recalled an intelligence estimate that called an attack a 'serious possibility'. When he asked the author what odds he meant, the answer was higher than what readers on the policy side had taken from the phrase. One word, two very different pictures.\n\nApply it today: Next time you write 'probably', 'unlikely' or 'good chance' in a message or note, replace it with a range such as 20 to 30 percent. If you cannot pick one, that tells you how little you know.",
+   "source": {
+    "kind": "article",
+    "title": "Words of Estimative Probability",
+    "author": "Sherman Kent"
+   }
+  },
+  {
+   "id": "j-2026-w42-d-decide-uncertainty-003",
+   "topic": "mind",
+   "tags": [
+    "decision-making",
+    "probability",
+    "mental-models"
+   ],
+   "title": "Weigh each outcome by its odds and its size",
+   "body": "A 10 percent chance of a big win can beat a 90 percent chance of a tiny one. Multiply each outcome's size by its probability, add them up, and compare options. The sum is rough, but it stops you choosing by the most vivid story.",
+   "deeper": "Why it works: Expected value is the average result you would get if you could repeat a choice many times. It forces both parts into view: how likely and how large. People tend to fixate on one. It also reveals lopsided bets, where a small cost buys a chance at a large gain.\n\nExample: A free trial of a course costs you two evenings. If you think there is a one in four chance it changes how you work, and the payoff would be worth far more than two evenings, the bet is good even though three times out of four it flops.\n\nApply it today: Take a choice you are weighing and list two or three outcomes. Give each a rough probability and a value in hours or money. Multiply, add, and see whether the answer matches your gut. If not, find out why.",
+   "source": {
+    "kind": "wikipedia",
+    "title": "Expected value"
+   }
+  },
+  {
+   "id": "j-2026-w42-d-decide-uncertainty-004",
+   "topic": "mind",
+   "tags": [
+    "decision-making",
+    "information",
+    "uncertainty"
+   ],
+   "title": "Pay for information only when it could change your mind",
+   "body": "More research feels safe, but it has a price. Before gathering facts, ask what you would do differently for each answer you might get. If the choice stays the same either way, the information is worth nothing, however interesting.",
+   "deeper": "Why it works: Decision analysts call this the value of information: how much better your choice gets, on average, once you know more. It is high when the decision is close, the stakes are large and a cheap test can tip it. It is low when one option already dominates or the test cannot discriminate.\n\nExample: You are torn between two gym memberships. Visiting each at the hour you would actually train costs a short trip and could reveal crowding that changes your pick. Reading a tenth review site would not.\n\nApply it today: For your open decision, write the question you are still researching and two answers it could return. Beside each, write what you would then do. If both lines say the same thing, stop researching and choose.",
+   "source": {
+    "kind": "wikipedia",
+    "title": "Value of information"
+   }
+  },
+  {
+   "id": "j-2026-w42-d-decide-uncertainty-005",
+   "topic": "mind",
+   "tags": [
+    "decision-making",
+    "quitting",
+    "planning"
+   ],
+   "title": "Decide in advance what would make you quit",
+   "body": "Once you are inside a project, it is hard to judge it fairly. So write down, before you start, the specific signals that mean you stop or switch. A rule set while calm protects the you who later feels invested.",
+   "deeper": "Why it works: Annie Duke argues that deciding when to quit is a skill, and that pre-committing to exit conditions guards against escalating commitment, where we keep going because of what we have already put in. A trigger tied to a date or a measure removes the need for willpower in the moment.\n\nExample: Before launching a side business you write: if I have fewer than ten paying customers by the end of month four, I stop or change the offer. Month four arrives, you have three, and the note makes the decision for you.\n\nApply it today: Choose something you are currently working on and write one sentence starting with 'I will stop or change course if' plus a measurable signal and a date. Put it where you will see it.",
+   "source": {
+    "kind": "book",
+    "title": "Quit: The Power of Knowing When to Walk Away",
+    "author": "Annie Duke"
+   }
+  },
+  {
+   "id": "j-2026-w42-d-decide-uncertainty-006",
+   "topic": "mind",
+   "tags": [
+    "decision-making",
+    "checklists",
+    "practice"
+   ],
+   "title": "Run a short check on big choices before you commit",
+   "body": "Combine the course into a routine. Before a major choice, ask who is pushing it and why, what the base evidence says, what you have not looked at and what could go wrong. Ten minutes of questions catches errors that confidence hides.",
+   "deeper": "Why it works: Daniel Kahneman, Dan Lovallo and Olivier Sibony proposed a checklist of questions aimed at the decision process, not the proposal itself, because biases are easier to catch by asking set questions than by trusting a feeling of certainty.\n\nExample: Before accepting a job in another city, you answer in writing: what kind of uncertainty is this, what odds am I assuming, what would I do with more information, and what result would make me leave. Your partner reads it and spots an assumption you never examined.\n\nApply it today: Take a decision due this month and answer the four questions in writing: risk or uncertainty, rough odds, one useful fact to find, and your exit signal. Send it to one person and ask what they would challenge.",
+   "source": {
+    "kind": "article",
+    "title": "Before You Make That Big Decision (Harvard Business Review, 2011)",
+    "author": "Daniel Kahneman, Dan Lovallo and Olivier Sibony"
+   }
+  }
+ ]
+}

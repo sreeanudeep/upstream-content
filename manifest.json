@@ -24,6 +24,14 @@
    "bytes": 241677,
    "sha256": "e5d10f3a284d3d2c206b716e9dfdfe8a6e36c8e54ba2f6206e725b916db20a94",
    "publishedAt": "2026-10-15"
+  },
+  {
+   "id": "2026-w42-d",
+   "path": "packs/2026-w42-d.json",
+   "count": 200,
+   "bytes": 247400,
+   "sha256": "0649a68d843f05875aaa7ba1da68885ac912217d93ce5ca10f023f4287773a20",
+   "publishedAt": "2026-10-17"
   }
  ],
  "journeys": [
@@ -62,6 +70,15 @@
    "bytes": 9192,
    "sha256": "1985b110022e3896075b5b85e8d3a8c5f114b855b8b2e1a93a181f130c9ca146",
    "publishedAt": "2026-10-16"
+  },
+  {
+   "id": "j-2026-w42-d-decide-uncertainty",
+   "path": "journeys/j-2026-w42-d-decide-uncertainty.json",
+   "title": "Make better decisions under uncertainty",
+   "steps": 6,
+   "bytes": 8450,
+   "sha256": "d44bbe52e93cd76a2e349d26ba434cc8a35f4bbbad88729508c8f26884b9d9b1",
+   "publishedAt": "2026-10-17"
   }
  ]
 }

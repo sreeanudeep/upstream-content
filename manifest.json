@@ -32,6 +32,14 @@
    "bytes": 247400,
    "sha256": "0649a68d843f05875aaa7ba1da68885ac912217d93ce5ca10f023f4287773a20",
    "publishedAt": "2026-10-17"
+  },
+  {
+   "id": "2026-w43",
+   "path": "packs/2026-w43.json",
+   "count": 200,
+   "bytes": 239104,
+   "sha256": "ae1010f2180f86fabaf0d155c7c5e408f09da35a95872212b3ed19358bb3f1eb",
+   "publishedAt": "2026-10-24"
   }
  ],
  "journeys": [
@@ -79,6 +87,15 @@
    "bytes": 8450,
    "sha256": "d44bbe52e93cd76a2e349d26ba434cc8a35f4bbbad88729508c8f26884b9d9b1",
    "publishedAt": "2026-10-17"
+  },
+  {
+   "id": "j-2026-w43-calm-negotiation",
+   "path": "journeys/j-2026-w43-calm-negotiation.json",
+   "title": "Negotiate calmly from prep to close",
+   "steps": 6,
+   "bytes": 7894,
+   "sha256": "365ad7d8d1f36406fe2b437d59657dcb7d3d46fd88d6ce07077e19e162d7a22d",
+   "publishedAt": "2026-10-24"
   }
  ]
 }

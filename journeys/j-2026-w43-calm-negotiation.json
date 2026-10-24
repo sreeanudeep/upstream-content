@@ -1,0 +1,110 @@
+{
+ "id": "j-2026-w43-calm-negotiation",
+ "title": "Negotiate calmly from prep to close",
+ "summary": "For anyone who dreads asking for more. Six steps cover preparing your nerves, resisting anchors, listening, inventing trade-offs, handling a no and closing a deal.",
+ "topic": "life",
+ "publishedAt": "2026-10-24",
+ "steps": [
+  {
+   "id": "j-2026-w43-calm-negotiation-001",
+   "topic": "life",
+   "tags": [
+    "negotiation",
+    "communication",
+    "mindset"
+   ],
+   "title": "Call your pre-negotiation nerves excitement, then prepare",
+   "body": "Before a hard conversation, your heart races and your hands feel cold. Instead of trying to calm down, say out loud, 'I am excited.' Nerves and excitement are both high-energy states, so switching the label is easier than switching the feeling. Then spend your prep time on the numbers.",
+   "deeper": "Why it works: Alison Wood Brooks ran experiments in which people who said 'I am excited' before a stressful task, such as public speaking, performed better than people who said 'I am calm.' Her explanation is that reappraising arousal as excitement moves you from threat toward opportunity.\n\nExample: the night before asking for a raise, Dev feels sick. He says 'I am excited' three times, then writes down his target, his lowest acceptable figure and two facts about what he delivered this year.\n\nApply it today: pick one conversation you have been dreading, say 'I am excited' aloud before your prep, and write your target and your lowest acceptable outcome on paper.",
+   "source": {
+    "kind": "paper",
+    "title": "Get excited: Reappraising pre-performance anxiety as excitement",
+    "author": "Alison Wood Brooks"
+   }
+  },
+  {
+   "id": "j-2026-w43-calm-negotiation-002",
+   "topic": "life",
+   "tags": [
+    "negotiation",
+    "anchoring",
+    "biases"
+   ],
+   "title": "When they name a number first, argue against it in your head",
+   "body": "If the other side opens with a number, it pulls your thinking toward it, even when you know it is arbitrary. Counter the pull by privately listing reasons their number could be wrong, too high or too low. You do not have to say them aloud. Then answer with your own figure, not a nudge from theirs.",
+   "deeper": "Why it works: anchoring happens partly because you search your memory for facts that fit the number you were given. Thomas Mussweiler and colleagues found that deliberately considering the opposite, reasons the anchor does not fit, reduced the anchoring effect.\n\nExample: a seller opens at 900 for a used bike. Before replying, you write three reasons it is too high: the worn chain, two newer listings you saw, and the missing receipt. You now counter from your own research instead of from 900.\n\nApply it today: next time someone quotes you a price, take ten seconds and list two reasons it might be off before you say anything.",
+   "source": {
+    "kind": "paper",
+    "title": "Overcoming the inevitable anchoring effect: Considering the opposite compensates for selective accessibility",
+    "author": "Thomas Mussweiler, Fritz Strack and Tim Pfeiffer"
+   }
+  },
+  {
+   "id": "j-2026-w43-calm-negotiation-003",
+   "topic": "life",
+   "tags": [
+    "negotiation",
+    "listening",
+    "communication"
+   ],
+   "title": "Step to their side: acknowledge before you answer",
+   "body": "When they push back, let them finish, then show you took it in: name a point you agree with, or the feeling behind it. Acknowledging is not conceding. People who feel heard stop repeating themselves and start thinking about your side. Agree where you honestly can, and save disagreement for after.",
+   "deeper": "Why it works: in Getting Past No, William Ury calls this stepping to their side. Much resistance is a demand to be heard, and a person busy defending a point has little attention left to weigh yours.\n\nExample: a landlord says rent must rise. You reply, 'You have had higher repair costs this year, and I see why that matters.' He relaxes, and the talk moves to how big the rise should be and when it starts.\n\nApply it today: in your next disagreement, say one true sentence that starts with 'You are right that' before you state your view.",
+   "source": {
+    "kind": "book",
+    "title": "Getting Past No",
+    "author": "William Ury"
+   }
+  },
+  {
+   "id": "j-2026-w43-calm-negotiation-004",
+   "topic": "life",
+   "tags": [
+    "negotiation",
+    "problem-solving"
+   ],
+   "title": "Invent several options before you pick one",
+   "body": "Do not settle on the first workable deal. Before deciding, spend a few minutes listing possible terms together, with no commitment and no criticism. A longer list shows trade-offs: something cheap for you and valuable to them. Decide only after the list exists.",
+   "deeper": "Why it works: Roger Fisher and William Ury, in Getting to Yes, argue that people usually narrow to one answer too early, and that separating inventing from deciding exposes options that benefit both sides. Judging ideas as they appear makes people stop offering them.\n\nExample: you want a later start date and your employer wants the role filled fast. Listing options turns up a partial week, a handover document and a trial month, so you trade a fast handover for the extra week.\n\nApply it today: before your next negotiation, write five possible terms, including odd ones, and mark which cost you little and may matter to them.",
+   "source": {
+    "kind": "book",
+    "title": "Getting to Yes",
+    "author": "Roger Fisher and William Ury"
+   }
+  },
+  {
+   "id": "j-2026-w43-calm-negotiation-005",
+   "topic": "life",
+   "tags": [
+    "negotiation",
+    "communication",
+    "stress"
+   ],
+   "title": "Hear a no as the start of the talk, and pause first",
+   "body": "A flat no can trigger an urge to argue, give in or walk out. Pause instead. Picture yourself watching from a balcony above the table, take a breath, and stay silent for a moment. Then ask what is behind the no, because a no usually protects a concern you have not heard yet.",
+   "deeper": "Why it works: William Ury describes going to the balcony as a way to delay your reaction and keep your goal in sight. A short pause breaks the cycle where each reaction feeds the next, and your question then replaces a fight with information.\n\nExample: a client says, 'We cannot pay that.' You breathe, then ask, 'What would make this work for your budget?' She reveals the cap is per quarter, not per year, and you restructure the payments.\n\nApply it today: the next time you hear no, count to three in your head, then ask one open question about the reason.",
+   "source": {
+    "kind": "book",
+    "title": "Getting Past No",
+    "author": "William Ury"
+   }
+  },
+  {
+   "id": "j-2026-w43-calm-negotiation-006",
+   "topic": "life",
+   "tags": [
+    "negotiation",
+    "communication",
+    "fairness"
+   ],
+   "title": "Close by building a golden bridge they can walk across",
+   "body": "Near the end, make yes easy. Involve them in the wording, let them keep their pride, and present the deal as their own good sense, not your win. Then summarize the terms in writing so both sides leave with the same picture of what was agreed.",
+   "deeper": "Why it works: William Ury calls this building a golden bridge. Agreeing can feel like losing face, and the person across the table may accept a deal faster when you remove that cost and let them claim credit for part of it.\n\nExample: after weeks of haggling, you say, 'Your point about delivery dates shaped this version. Here is the draft, tell me what to change.' They change one date, agree, and you send the final terms by email that evening.\n\nApply it today: end your next negotiation by asking, 'What would you change in this?' and send a short written summary of what you both agreed.",
+   "source": {
+    "kind": "book",
+    "title": "Getting Past No",
+    "author": "William Ury"
+   }
+  }
+ ]
+}

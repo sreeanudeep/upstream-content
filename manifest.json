@@ -40,6 +40,14 @@
    "bytes": 239104,
    "sha256": "ae1010f2180f86fabaf0d155c7c5e408f09da35a95872212b3ed19358bb3f1eb",
    "publishedAt": "2026-10-24"
+  },
+  {
+   "id": "2026-w44",
+   "path": "packs/2026-w44.json",
+   "count": 200,
+   "bytes": 246648,
+   "sha256": "a9459f7f353d3e2cf649aaae0ec14e2fbc935c6caf724a42bd4aaba7a87d4a74",
+   "publishedAt": "2026-10-31"
   }
  ],
  "journeys": [
@@ -96,6 +104,15 @@
    "bytes": 7894,
    "sha256": "365ad7d8d1f36406fe2b437d59657dcb7d3d46fd88d6ce07077e19e162d7a22d",
    "publishedAt": "2026-10-24"
+  },
+  {
+   "id": "j-2026-w44-read-science",
+   "path": "journeys/j-2026-w44-read-science.json",
+   "title": "Read a scientific claim without being fooled",
+   "steps": 6,
+   "bytes": 10222,
+   "sha256": "98fa8ab9f110c3524bc37e0fde9fa84660385cc16f9e9704e68b094286e4b8a8",
+   "publishedAt": "2026-10-31"
   }
  ]
 }

@@ -1,0 +1,115 @@
+{
+ "id": "j-2026-w44-read-science",
+ "title": "Read a scientific claim without being fooled",
+ "summary": "For anyone who reads health and science news: six steps on study design, correlation versus causation, sample size, p-values and replication, funding, and a checklist for any headline.",
+ "topic": "world",
+ "publishedAt": "2026-10-31",
+ "steps": [
+  {
+   "id": "j-2026-w44-read-science-001",
+   "topic": "world",
+   "tags": [
+    "science",
+    "evidence",
+    "thinking"
+   ],
+   "title": "Know which kind of study sits behind a claim before you weigh it",
+   "body": "Studies are not equal. A test on cells or mice suggests an idea. A survey of people shows patterns. A randomized trial, where chance decides who gets the treatment, is far better at showing that something works. The design sets the ceiling on what the claim can honestly say.",
+   "deeper": "Why it works: Researchers rank designs by how well they guard against bias and chance. Lab and animal work shows a mechanism is possible. Observational studies watch people without assigning anything, so other differences between groups can creep in. Randomized trials spread those differences evenly by chance. Systematic reviews, which pool many studies, sit near the top. A rank is a guide, not a verdict, since a well run observational study can beat a sloppy trial.\n\nExample: A headline says a compound from green tea 'fights cancer'. If the work was done on cells in a dish, it shows a possibility worth testing, not that drinking tea helps you. The same compound would need human trials before the claim means anything for your cup.\n\nApply it today: Pick one health or science headline from today and find out the design in the first paragraph of the article or the study abstract: cells, animals, observation of people, or a randomized trial. Write that one phrase next to the claim.",
+   "source": {
+    "kind": "wikipedia",
+    "title": "Hierarchy of evidence",
+    "url": "https://en.wikipedia.org/wiki/Hierarchy_of_evidence"
+   }
+  },
+  {
+   "id": "j-2026-w44-read-science-002",
+   "topic": "world",
+   "tags": [
+    "science",
+    "causation",
+    "statistics"
+   ],
+   "title": "Two things moving together does not mean one moves the other",
+   "body": "People who carry lighters get lung cancer more often, but the lighter is not the cause. Smoking drives both. Whenever a study reports that A goes with B, there are three questions: does A cause B, does B cause A, or does a third thing cause both?",
+   "deeper": "Why it works: A correlation is a pattern in the data. Causation is a claim about what would happen if you changed one thing. In 1965 the epidemiologist Austin Bradford Hill listed considerations for judging when an association is likely causal, including that the cause comes before the effect, that more exposure brings more effect, that the result repeats across settings, and that a plausible mechanism exists. No single item proves it, but together they separate strong cases from weak ones.\n\nExample: Studies often find that people who drink moderate amounts of coffee live longer. Perhaps coffee helps. Or perhaps people who are already ill cut back on coffee, or coffee drinkers differ in income and habits. Only a design that handles those alternatives can move from 'goes with' to 'causes'.\n\nApply it today: Take any 'linked to' claim you read this week and write down one third factor that could drive both sides. If you can name a believable one in under a minute, treat the claim as unproven.",
+   "source": {
+    "kind": "paper",
+    "title": "The Environment and Disease: Association or Causation?",
+    "author": "Austin Bradford Hill",
+    "url": "https://en.wikipedia.org/wiki/Bradford_Hill_criteria"
+   }
+  },
+  {
+   "id": "j-2026-w44-read-science-003",
+   "topic": "world",
+   "tags": [
+    "science",
+    "statistics",
+    "sample-size"
+   ],
+   "title": "A small study can find a big effect that is mostly luck",
+   "body": "Ten people on a new diet and eight lose weight sounds impressive, but a group that small can swing wildly by chance. Small samples produce noisy results, and the surprising ones are the ones that get published and shared. Ask how many people were studied.",
+   "deeper": "Why it works: With few participants, random variation is large, so real effects are often missed and the effects that do show up tend to be exaggerated. Button and colleagues argued in 2013 that low statistical power, the chance a study can detect a real effect, was common in neuroscience and made findings less reliable. Bigger samples shrink the noise. Also check who the people were, since a large sample of one narrow group may not describe you.\n\nExample: A trial of 12 volunteers reports that a supplement improves memory by a striking amount. A later trial of several hundred people finds a tiny effect or none. The early dramatic number was largely the noise of a small group.\n\nApply it today: Next time you see a study in the news, find the sample size and the group studied. If it is a few dozen people, read the claim as a hint to watch for follow-up, not as a finding to act on.",
+   "source": {
+    "kind": "paper",
+    "title": "Power failure: why small sample size undermines the reliability of neuroscience",
+    "author": "Katherine S. Button and colleagues",
+    "url": "https://www.nature.com/articles/nrn3475"
+   }
+  },
+  {
+   "id": "j-2026-w44-read-science-004",
+   "topic": "world",
+   "tags": [
+    "science",
+    "statistics",
+    "replication"
+   ],
+   "title": "A significant result is a weak clue until someone else gets it again",
+   "body": "A p-value below 0.05 does not mean the finding is 95 percent likely to be true. It only says that data like these would be unusual if there were no effect at all. One surprising result is a lead. The finding earns trust when independent teams reproduce it.",
+   "deeper": "Why it works: The American Statistical Association warned in 2016 that a p-value does not measure the probability a hypothesis is true or the size or importance of an effect, and that conclusions should not rest on crossing a threshold alone. Test enough things and some will cross it by chance. Large replication projects in psychology, such as the one by the Open Science Collaboration in 2015, found that many published effects came out weaker or did not reappear when repeated.\n\nExample: Run 20 comparisons on pure noise and, on average, about one will show p below 0.05. If a team reports only that one, the result looks real but will vanish when repeated by others with a fresh sample.\n\nApply it today: When you read 'a study found', look for whether it is a first result or has been repeated by other groups, and whether the claim reports an effect size, not just 'significant'. If it stands alone, hold it loosely.",
+   "source": {
+    "kind": "organization",
+    "title": "The ASA Statement on p-Values: Context, Process, and Purpose",
+    "author": "Ronald L. Wasserstein and Nicole A. Lazar (American Statistical Association)",
+    "url": "https://en.wikipedia.org/wiki/Misuse_of_p-values"
+   }
+  },
+  {
+   "id": "j-2026-w44-read-science-005",
+   "topic": "world",
+   "tags": [
+    "science",
+    "bias",
+    "incentives"
+   ],
+   "title": "Ask who paid for the study and what they gain from the answer",
+   "body": "Funding does not make a study false, but it can tilt it. Who paid, who ran it, and who profits from a particular result are fair questions. A conflict of interest is not proof of bad work, it is a reason to look harder.",
+   "deeper": "Why it works: A Cochrane review by Lundh and colleagues compared studies of drugs and devices and found that industry sponsored ones more often reached favorable conclusions than ones with other funding. The mechanisms can be subtle: which comparison is chosen, which outcomes are reported, how results are framed. Journals now ask authors to declare funding and competing interests, which gives you something to check.\n\nExample: A study of a sugary drink concludes it has no effect on weight, and the paper's disclosure section says the beverage maker funded it. That is not the end of the story. It means you should look for independent studies and for whether all planned outcomes were reported.\n\nApply it today: Find the funding and conflict of interest statement, usually at the end of a paper or in a news article's last lines, for one claim you rely on. Then search for whether an independently funded study agrees.",
+   "source": {
+    "kind": "paper",
+    "title": "Industry sponsorship and research outcome",
+    "author": "Andreas Lundh and colleagues (Cochrane Database of Systematic Reviews)",
+    "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.MR000033.pub3/full"
+   }
+  },
+  {
+   "id": "j-2026-w44-read-science-006",
+   "topic": "world",
+   "tags": [
+    "science",
+    "critical-thinking",
+    "media"
+   ],
+   "title": "Run any science headline through five questions before you share it",
+   "body": "You now have the pieces: design, cause, sample, repetition and funding. Put them into one quick check you can run in two minutes. Headlines compress and exaggerate, so the real claim is usually in the study, not the title.",
+   "deeper": "Why it works: A fixed routine beats good intentions because it works even when you are tired or the claim flatters what you already believe. Checking the same few things each time catches most weak claims, and it lets you say 'plausible, not yet established' instead of a flat yes or no. Ben Goldacre's Bad Science walks through how headlines drift from the evidence behind them.\n\nExample: A headline says 'Chocolate cuts heart disease risk'. Run the checks: it was a survey of people, not a trial; chocolate eaters differ in other ways; the group was small; it has not been repeated; and a candy company funded it. Verdict: interesting, not established.\n\nApply it today: Save these five questions in your phone: What type of study is it? Could something else explain the link? How many people, and who? Has anyone repeated it? Who paid? Use them on the next claim before you pass it on.",
+   "source": {
+    "kind": "book",
+    "title": "Bad Science",
+    "author": "Ben Goldacre"
+   }
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "j-2026-w45-stay-safe-online",
+  "title": "Stay safe online, from first alarm to routine",
+  "summary": "For anyone who wants fewer online scares. Six steps cover spotting pressure tactics, checking links, recovering from a click, sharing less, limiting app access and a regular check-up.",
+  "topic": "survival",
+  "publishedAt": "2026-11-07",
+  "steps": [
+    {
+      "id": "j-2026-w45-stay-safe-online-001",
+      "topic": "survival",
+      "tags": [
+        "scams",
+        "online-safety"
+      ],
+      "title": "Scammers rush you because a pause is what defeats them",
+      "body": "Most scams, whatever the story, share one move: they make you feel you must act right now. A bank says your account is frozen, an agency says a warrant is coming, a relative is in trouble. The pressure is the point, because it stops you from checking. Your first defence is simple: when a message makes your pulse jump, stop and do nothing for a few minutes.",
+      "deeper": "Why it works: Fear and urgency crowd out careful thinking, and a scammer needs you to decide before you ask anyone. The FTC lists pressure to act immediately and demands for unusual payment among the common signs of a scam. A pause removes the one thing the scammer controls, which is the clock.\n\nExample: A text says your delivery failed and you must pay a small fee within the hour through a link. Nothing is actually lost if you wait. Once you step away and open the courier's own app instead, there is no problem to solve.\n\nApply it today: Pick a rule such as 'no money, codes or logins within ten minutes of a message that scares me', and tell one person close to you so they can hold you to it. Then read the next steps to learn what to check during the pause.",
+      "source": {
+        "kind": "organization",
+        "title": "How To Recognize and Avoid Phishing Scams",
+        "author": "Federal Trade Commission"
+      }
+    },
+    {
+      "id": "j-2026-w45-stay-safe-online-002",
+      "topic": "survival",
+      "tags": [
+        "phishing",
+        "online-safety"
+      ],
+      "title": "Hover over a link to see where it really goes before you click",
+      "body": "The words on a link and the address behind it can differ. On a computer, resting your pointer on a link shows the real destination in a corner of the browser. On a phone, press and hold the link to preview it. If the address looks odd, has misspelled brand names, or does not match who the message claims to be from, do not open it.",
+      "deeper": "Why it works: Phishing messages rely on link text that looks trustworthy while the underlying address points somewhere else. CISA advises checking where a link leads and being wary of messages that push you to click. Reading the destination takes a second and moves the decision from the message's wording to the actual address.\n\nExample: An email says 'Review your account at yourbank.com' but the preview shows a long address ending in a different, unrelated domain. The real site's name must appear just before the first single slash, so anything else is a lookalike.\n\nApply it today: Open your inbox, find any email with a link, and practise previewing it without clicking. When a message asks for a login, skip its link entirely and type the site's address yourself or use your saved bookmark.",
+      "source": {
+        "kind": "organization",
+        "title": "Recognize and Report Phishing",
+        "author": "Cybersecurity and Infrastructure Security Agency (CISA)"
+      }
+    },
+    {
+      "id": "j-2026-w45-stay-safe-online-003",
+      "topic": "survival",
+      "tags": [
+        "phishing",
+        "accounts",
+        "online-safety"
+      ],
+      "title": "If you clicked a bad link, act in a set order and tell someone",
+      "body": "Everyone eventually clicks something they should not. What matters next is speed and order. If you only opened a link, close it and watch for odd behaviour. If you entered a password, change it at once on the real site, and anywhere else you reused it. Then turn on a second sign-in step, check your accounts for activity you did not do, and report the message.",
+      "deeper": "Why it works: Attackers move fast once they hold a password, often trying it on other services. The FTC advises that if you gave login details to a scammer you should change them right away, and if you downloaded something suspicious, update your security software and run a scan. Acting in order closes the most dangerous doors first.\n\nExample: You type your email password into a fake page. You go to the real email site, change the password, sign out other sessions where offered, and look for new forwarding rules. Then you forward the phish to the reporting address your provider or workplace gives.\n\nApply it today: Write a five-line checklist of what you would do after a bad click and save it where you can find it in a panic, such as a note on your phone. Include your workplace security contact if you have one.",
+      "source": {
+        "kind": "organization",
+        "title": "What To Do if You Suspect a Phishing Attack",
+        "author": "Federal Trade Commission"
+      }
+    },
+    {
+      "id": "j-2026-w45-stay-safe-online-004",
+      "topic": "survival",
+      "tags": [
+        "privacy",
+        "social-media",
+        "online-safety"
+      ],
+      "title": "What you post can answer the questions that guard your accounts",
+      "body": "Details like your pet's name, your school, your birthday or your hometown are common answers to account recovery questions and handy for impersonation. Each one is harmless alone, but together they let a stranger sound like you or reset your access. Review what is public on your profiles and trim what a stranger does not need.",
+      "deeper": "Why it works: Attackers research targets from public posts, then use real details to make a scam convincing or to guess recovery answers. CISA's social media guidance warns that the more information you post, the easier it is for someone to use it against you, and suggests limiting what you share and who can see it.\n\nExample: A public post celebrating your dog's birthday, with its name, plus a profile listing your high school, can supply two typical security answers. A caller who knows both sounds far more believable when pretending to be you or your bank.\n\nApply it today: Open your most used social profile as a logged-out visitor, or in a private window, and note what a stranger sees. Then tighten the audience settings and remove one detail that works as an answer to a recovery question.",
+      "source": {
+        "kind": "organization",
+        "title": "Social Media Cybersecurity",
+        "author": "Cybersecurity and Infrastructure Security Agency (CISA)"
+      }
+    },
+    {
+      "id": "j-2026-w45-stay-safe-online-005",
+      "topic": "survival",
+      "tags": [
+        "privacy",
+        "online-safety"
+      ],
+      "title": "Give each app only the permissions it needs to do its job",
+      "body": "Apps often ask for your location, contacts, microphone, camera or photos. Saying yes to everything means data leaves your phone that the app may not need. Review permissions and choose the narrowest option: allow location only while using the app, or not at all. A flashlight or game has no need for your contacts.",
+      "deeper": "Why it works: Data an app never receives cannot leak, be sold or be exposed in a breach. The FTC advises checking and limiting what apps can access on your device, and deleting apps you no longer use. Fewer permissions also shrinks the damage if an app is later compromised.\n\nExample: A shopping app asks for constant background location. You switch it to 'while using' or 'never', and coupons for nearby stores still work when you type your postcode. You lose nothing and stop a steady trail of your movements.\n\nApply it today: In your phone's privacy settings, open the list of apps with access to location, then to microphone. Remove access from any app whose purpose does not need it, and uninstall one app you have not used in months.",
+      "source": {
+        "kind": "organization",
+        "title": "How To Protect Your Privacy Online",
+        "author": "Federal Trade Commission"
+      }
+    },
+    {
+      "id": "j-2026-w45-stay-safe-online-006",
+      "topic": "survival",
+      "tags": [
+        "online-safety",
+        "habits",
+        "privacy"
+      ],
+      "title": "Run a short security check-up on a schedule you will keep",
+      "body": "Good habits fade, and settings drift as apps update. Put a recurring reminder in your calendar for a short check-up. Look at your key accounts, starting with email: confirm the second sign-in step is on, review devices and apps with access, update software, and delete accounts you no longer use. Small, regular reviews beat one big clean-up.",
+      "deeper": "Why it works: Security is mostly maintenance. CISA's guidance stresses keeping software updated, using multifactor authentication and strong, unique passwords, and each of these needs occasional attention. A fixed calendar slot turns good intentions into a routine and catches problems earlier.\n\nExample: During a quarterly check you find an old forum account that reused a password and a phone you sold still signed in to your email. You close the account, remove the old device, and update your phone. It takes less than a coffee break.\n\nApply it today: Create a repeating calendar event named 'security check-up' for the first weekend of each season. Do the first one now with only three items: email sign-in step, device list, pending updates. Add more items each time.",
+      "source": {
+        "kind": "organization",
+        "title": "Secure Our World",
+        "author": "Cybersecurity and Infrastructure Security Agency (CISA)"
+      }
+    }
+  ]
+}

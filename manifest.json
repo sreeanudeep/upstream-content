@@ -48,6 +48,14 @@
    "bytes": 246648,
    "sha256": "a9459f7f353d3e2cf649aaae0ec14e2fbc935c6caf724a42bd4aaba7a87d4a74",
    "publishedAt": "2026-10-31"
+  },
+  {
+   "id": "2026-w45",
+   "path": "packs/2026-w45.json",
+   "count": 200,
+   "bytes": 251936,
+   "sha256": "fe9325b269e4f92ee301dcc55cd4e6baadcb5da8e6712ae9e5ca51d3dfeb73ee",
+   "publishedAt": "2026-11-07"
   }
  ],
  "journeys": [
@@ -113,6 +121,15 @@
    "bytes": 10222,
    "sha256": "98fa8ab9f110c3524bc37e0fde9fa84660385cc16f9e9704e68b094286e4b8a8",
    "publishedAt": "2026-10-31"
+  },
+  {
+   "id": "j-2026-w45-stay-safe-online",
+   "path": "journeys/j-2026-w45-stay-safe-online.json",
+   "title": "Stay safe online, from first alarm to routine",
+   "steps": 6,
+   "bytes": 9842,
+   "sha256": "e7401f9d307941d8d7c5130e5751ff397086209bf5f6675772c1da27157ad4d0",
+   "publishedAt": "2026-11-07"
   }
  ]
 }

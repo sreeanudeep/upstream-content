@@ -5,3 +5,4 @@ life | Build a sleep routine that sticks | For anyone who keeps restarting a sle
 mind | A practical week of Stoic thinking | For anyone curious about Stoicism: six daily steps from checking your first impressions to a fair evening review, each building on the one before.
 life | Negotiate calmly from prep to close | For anyone who dreads asking for more. Six steps cover preparing your nerves, resisting anchors, listening, inventing trade-offs, handling a no and closing a deal.
 world | Read a scientific claim without being fooled | For anyone who reads health and science news: six steps on study design, correlation versus causation, sample size, p-values and replication, funding, and a checklist for any headline.
+survival | Stay safe online, from first alarm to routine | For anyone who wants fewer online scares. Six steps cover spotting pressure tactics, checking links, recovering from a click, sharing less, limiting app access and a regular check-up.

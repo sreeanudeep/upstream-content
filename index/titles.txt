@@ -1018,3 +1018,203 @@ mind | Teaching a learner makes you work harder than studying for yourself | Tea
 world | A rounded number in a weather model changed the whole forecast | Butterfly effect | science,math,systems
 life | Look up any adviser or broker before you hand over money | Check Out Your Investment Professional (Investor.gov, US Securities and Exchange Commission) (US Securities and Exchange Commission) | money,investing,safety
 survival | Check for ticks and shower within two hours of coming indoors | Preventing Tick Bites (Centers for Disease Control and Prevention) (Centers for Disease Control and Prevention) | outdoors,ticks,health
+mind | Once you notice something, it seems to appear everywhere | Frequency illusion | perception,biases,attention
+world | Earthquakes are stored strain that rock finally lets go of | Elastic-rebound theory | science,geology,earth
+life | Money already spent should not decide what you do next | Sunk cost | money,decision-making,biases
+survival | Check the scene is safe before you rush to help | First Aid/CPR/AED Participant's Manual (American Red Cross) | first-aid,emergencies
+mind | Your mind cannot switch off reading, even when you want it to | Studies of interference in serial verbal reactions (J. Ridley Stroop) | perception,psychology,attention
+world | Fertilizer washed down rivers can create a sea with no oxygen | Hypoxia in the Gulf of Mexico (NOAA) (National Oceanic and Atmospheric Administration) | environment,food,water
+life | Three questions reveal whether you understand money basics | The Economic Importance of Financial Literacy: Theory and Evidence (Annamaria Lusardi and Olivia S. Mitchell) | money,investing,decision-making
+survival | Gasping is not normal breathing, so start CPR | Highlights of the 2020 American Heart Association Guidelines for CPR and ECC (American Heart Association) | first-aid,cpr,emergencies
+mind | What you hear depends partly on what you see | Hearing lips and seeing voices (Harry McGurk and John MacDonald) | perception,psychology,brain
+world | A tariff law meant to protect jobs in 1930 triggered retaliation | Smoot-Hawley Tariff Act | economics,trade,history
+life | Check that your bank deposits are insured, and know the limit | Deposit Insurance (Federal Deposit Insurance Corporation) (Federal Deposit Insurance Corporation) | money,saving
+survival | For a chemical burn on skin, brush off powder, then flush well | Chemical burns: First aid (Mayo Clinic) | first-aid,burns,poisoning
+mind | Your sense of owning your body is built by the brain | Rubber hands 'feel' touch that eyes see (Matthew Botvinick and Jonathan Cohen) | perception,psychology,brain
+world | The first life table priced annuities from a city's death records | Edmond Halley | math,history,health
+life | The 4 percent rule is a starting point for retirement spending, not a promise | Determining Withdrawal Rates Using Historical Data (William P. Bengen) | money,investing
+survival | In a panic attack, breathe out slowly and remind yourself it will pass | Panic disorder and panic attacks (NHS) | mental-health,first-aid
+mind | Pair words with pictures and you remember more | Dual-coding theory | learning,memory,thinking
+world | Florence Nightingale used a chart to show soldiers died of disease | Florence Nightingale | statistics,health,history
+life | Many millionaires look ordinary, because they spend less than they earn | The Millionaire Next Door (Thomas J. Stanley and William D. Danko) | money,saving,habits
+survival | Dark urine and severe soreness after extreme exertion needs medical care | Rhabdomyolysis (MedlinePlus, National Library of Medicine) | first-aid,health,exercise
+mind | Think about meaning, and you will remember more | Levels of processing: A framework for memory research (Fergus I. M. Craik and Robert S. Lockhart) | learning,memory
+world | A solar eclipse in 1919 tested Einstein with starlight | Eddington experiment | science,space,physics
+life | A price ending in .99 feels cheaper than it is | Penny wise and pound foolish: The left-digit effect in price cognition (Manoj Thomas and Vicki Morwitz) | money,biases,anchoring
+survival | Stay within arm's reach of a young child in the bath | Bathtub Safety (HealthyChildren.org, American Academy of Pediatrics) | children,water-safety,drowning
+mind | Close pairs and teams share one memory between them | Transactive memory: A contemporary analysis of the group mind (Daniel M. Wegner) | memory,relationships,teams
+world | Distant galaxies are rushing away, and the farther the faster | Hubble's law | science,space,history
+life | Free is not just cheap, it changes how you choose | Zero as a Special Price: The True Value of Free Products (Kristina Shampanier, Nina Mazar and Dan Ariely) | money,biases,persuasion
+survival | Store laundry pods up high, locked, in their original tub | Laundry Packets (America's Poison Centers) | poisoning,children,home-safety
+mind | Wanting something and liking it are different brain processes | Dissecting components of reward: 'liking', 'wanting', and learning (Kent C. Berridge, Terry E. Robinson and J. Wayne Aldridge) | motivation,psychology,brain
+world | The first distance to a star was found by looking from two sides of the orbit | Stellar parallax | science,space,math
+life | Claiming retirement benefits later usually means a higher monthly check | When To Start Receiving Retirement Benefits (Social Security Administration) (US Social Security Administration) | money,saving
+survival | Cut grapes lengthwise before you give them to young children | Choking Prevention (HealthyChildren.org, American Academy of Pediatrics) | children,choking,food-safety
+mind | While you think about it, one factor looks bigger than it is | Does living in California make people happy? A focusing illusion in judgments of life satisfaction (David A. Schkade and Daniel Kahneman) | happiness,biases,decision-making
+world | A swinging weight in Paris showed that the Earth turns | Foucault pendulum | science,physics,history
+life | A head start makes you more likely to finish | The Endowed Progress Effect: How Artificial Advancement Increases Effort (Joseph C. Nunes and Xavier Drèze) | motivation,habits,goals
+survival | Use a take-back site to get rid of old medicines safely | Disposal of Unused Medicines: What You Should Know (U.S. Food and Drug Administration) | medicine,home-safety,children
+mind | One named person moves us more than a thousand statistics | Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims (Deborah A. Small, George Loewenstein and Paul Slovic) | biases,psychology,empathy
+world | Radar won in 1940 because it was joined to a control room | Chain Home | technology,history,safety
+life | Tracking your progress makes you more likely to reach a goal | Does monitoring goal progress promote goal attainment? A meta-analysis of the experimental evidence (Benjamin Harkin and colleagues) | goals,habits,motivation
+survival | Do not eat raw cookie dough or batter, because flour is raw too | Handling Flour Safely: What You Need to Know (U.S. Food and Drug Administration) | food-safety,cooking
+mind | A good deed can give you permission for a bad one | Moral self-licensing: When being good frees us to be bad (Anna C. Merritt, Daniel A. Effron and Benoit Monin) | biases,decision-making,self-control
+world | Insulin's discoverers sold the patent for one dollar | Frederick Banting | health,science,history
+life | Picture the obstacle too, not just the dream | The motivating function of thinking about the future: Expectations versus fantasies (Gabriele Oettingen and Doris Mayer) | goals,motivation,mental-health
+survival | A growing red rash after a tick bite needs a doctor | Lyme Disease Signs and Symptoms (Centers for Disease Control and Prevention) | ticks,health,outdoors
+mind | Free does not just mean cheap, it feels different | Zero as a special price: The true value of free products (Kristina Shampanier, Nina Mazar and Dan Ariely) | biases,decision-making,economics
+world | Alternating current won because transformers made long wires affordable | War of the currents | technology,energy,history
+life | Creatine is one of the best studied supplements for strength | International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine (Richard B. Kreider and colleagues) | fitness,health,exercise
+survival | Drinking far more than you need can be as risky as drinking too little | Water intoxication (Wikipedia) | exercise,outdoors,health
+mind | How you explain a setback predicts how you bounce back | Learned Optimism: How to Change Your Mind and Your Life (Martin E. P. Seligman) | mindset,resilience,psychology
+world | A Boston merchant sold ice to the tropics | Frederic Tudor | history,business,food
+life | How fast you walk says a lot about how long you may live | Gait Speed and Survival in Older Adults (Stephanie Studenski and colleagues) | health,fitness,walking
+survival | See a travel health provider a month before an international trip | Travelers' Health (Centers for Disease Control and Prevention) | travel,health,vaccines
+mind | Some people grow from hardship, and nobody has to | Posttraumatic growth: Conceptual foundations and empirical evidence (Richard G. Tedeschi and Lawrence G. Calhoun) | resilience,mindset,psychology
+world | Napoleon's prize created canned food before anyone knew why it worked | Nicolas Appert | history,food,science
+life | Eating without distraction reduces how much you eat later | Eating attentively: a systematic review and meta-analysis of the effect of food intake memory and awareness on eating (Eric Robinson and colleagues) | nutrition,health,habits
+survival | If someone tells you they were assaulted, believe them and listen | Tips for Talking with Survivors of Sexual Violence (RAINN) | personal-safety,mental-health
+mind | Believing stress is useful can change how it affects you | Rethinking stress: The role of mindsets in determining the stress response (Alia J. Crum, Peter Salovey and Shawn Achor) | stress,mindset,health
+world | Guinea worm is nearly gone with no vaccine and no cure | Guinea Worm Eradication Program (The Carter Center) (The Carter Center) | health,history,cooperation
+life | Meditation helps a little with anxiety and low mood, not miracles | Meditation Programs for Psychological Stress and Well-being: A Systematic Review and Meta-analysis (Madhav Goyal and colleagues) | stress,mental-health,health
+survival | If water looks like pea soup or paint, stay out and keep dogs out too | Harmful Algal Bloom-Associated Illness (Centers for Disease Control and Prevention) | water-safety,pets,outdoors
+mind | Goals you choose for your own reasons are easier to keep | Goal striving, need satisfaction, and longitudinal well-being: The self-concordance model (Kennon M. Sheldon and Andrew J. Elliot) | motivation,goals,psychology
+world | The Monroe Doctrine told Europe to stay out of the Americas | Monroe Doctrine | geopolitics,history
+life | For low back pain, stay active instead of resting in bed | Prevention and treatment of low back pain: evidence, challenges, and promising directions (Nadine E. Foster and colleagues) | health,exercise
+survival | If you must shout to be heard, the noise is already harming your ears | Noise-Induced Hearing Loss (National Institute on Deafness and Other Communication Disorders) | health,safety
+mind | A dull task can leave your mind better at making ideas | Does being bored make us more creative? (Sandi Mann and Rebekah Cadman) | creativity,attention,psychology
+world | A 1904 lecture argued that whoever holds Eurasia's heart matters most | Halford Mackinder | geopolitics,history,geography
+life | Do most of your cardio easy, and a little of it hard | What is best practice for training intensity and duration distribution in endurance athletes? (Stephen Seiler) | fitness,exercise,health
+survival | Slow down and move over for stopped emergency vehicles | Move over law (Wikipedia) | driving,emergencies
+mind | Feeling awe makes you feel smaller and more generous | Awe, the small self, and prosocial behavior (Paul K. Piff, Pia Dietze, Matthew Feinberg, Daniel M. Stancato and Dacher Keltner) | emotions,social,psychology
+world | Nobody has used a nuclear weapon since 1945, and norms may be why | The Nuclear Taboo (Nina Tannenwald) | geopolitics,nuclear,history
+life | Two hours a week in nature is linked to better health | Spending at least 120 minutes a week in nature is associated with good health and wellbeing (Mathew P. White and colleagues) | health,happiness,stress
+survival | Walk facing traffic when there is no pavement, and be visible at night | Pedestrian Safety (National Highway Traffic Safety Administration) | personal-safety,driving,travel
+mind | Spending a little on someone else can lift your mood more than on yourself | Spending money on others promotes happiness (Elizabeth W. Dunn, Lara B. Aknin and Michael I. Norton) | happiness,kindness,psychology
+world | The sea beyond three miles was once free because a cannon could reach that far | United Nations Convention on the Law of the Sea (United Nations) (United Nations) | geopolitics,history,trade
+life | Working very long weeks is linked to higher risk of stroke and heart disease | Global, regional, and national burdens of ischemic heart disease and stroke attributable to exposure to long working hours (Frank Pega and colleagues) | health,career,stress
+survival | Have your chimney inspected every year before you light the first fire | Chimney Safety (Chimney Safety Institute of America) | home-safety,fire,winter
+mind | Your circle looks like you, so you hear little that is new | Birds of a feather: Homophily in social networks (Miller McPherson, Lynn Smith-Lovin and James M. Cook) | social,thinking,relationships
+world | Two children per woman is not enough to hold a population steady | Total fertility rate | population,statistics,history
+life | Processed meat is a proven cause of cancer, though the risk is small per serving | Q&A on the carcinogenicity of the consumption of red meat and processed meat (International Agency for Research on Cancer) (International Agency for Research on Cancer) | nutrition,health,heart
+survival | During a thunderstorm, stay away from plumbing and corded electronics | Lightning Safety: Indoors (National Weather Service) | lightning,home-safety,storms
+mind | More information means attention becomes the scarce thing | Computers, Communications and the Public Interest (chapter Designing Organizations for an Information-Rich World) (Herbert A. Simon (ed. Martin Greenberger)) | attention,focus,thinking
+world | Paris was rebuilt with boulevards, sewers and fresh water | Haussmann's renovation of Paris | cities,history,engineering
+life | Walking, jogging and lifting build bone, while swimming and cycling build less | Exercise for Your Bone Health (NIH Osteoporosis and Related Bone Diseases National Resource Center) (National Institutes of Health) | fitness,health,exercise
+survival | If you rely on powered medical equipment, plan for a blackout now | emPOWER Program (U.S. Department of Health and Human Services, ASPR) | power-outages,preparedness,health
+mind | If your only tool is a hammer, everything looks like a nail | Law of the instrument | mental-models,thinking,biases
+world | Until 2019 the kilogram was a metal cylinder in a vault | 2019 revision of the SI | science,math,measurement
+life | Do not wash raw chicken, because it spreads germs | Chicken and Food Poisoning (Centers for Disease Control and Prevention) (Centers for Disease Control and Prevention) | safety,hygiene,health
+survival | Join a CERT team to learn basic disaster response | Community Emergency Response Team (CERT) (FEMA) | disasters,preparedness,first-aid
+mind | Stop asking 'whether or not' and widen your options | Decisive: How to Make Better Choices in Life and Work (Chip Heath and Dan Heath) | decision-making,thinking
+world | Probability began with a letter about an unfinished game | Problem of points | math,history,probability
+life | Teenagers are biologically wired to sleep later | School Start Times for Adolescents (American Academy of Pediatrics) (American Academy of Pediatrics) | sleep,parenting,health
+survival | Stay out of a flooded home until power is off and officials say it is safe | Flood Safety (American Red Cross) | floods,home-safety,electricity
+mind | Try a small version of a choice before you commit | Decisive: How to Make Better Choices in Life and Work (Chip Heath and Dan Heath) | decision-making,planning
+world | In 1884 delegates picked Greenwich as the zero line of the world | International Meridian Conference | history,time,maps
+life | People who sleep less are more likely to catch a cold | Sleep habits and susceptibility to the common cold (Sheldon Cohen and colleagues) | sleep,health
+survival | If an earthquake wakes you in bed, stay put and cover your head | Earthquake Safety at Home: Seven Steps (Earthquake Country Alliance) | earthquakes,home-safety
+mind | Ask what a newcomer would do in your place | Decisive: How to Make Better Choices in Life and Work (Chip Heath and Dan Heath) | decision-making,thinking
+world | The Beaufort scale lets you read wind from what it does | Beaufort scale | science,weather,navigation
+life | Extra sleep improved the performance of basketball players | The effects of sleep extension on the athletic performance of collegiate basketball players (Cheri D. Mah and colleagues) | sleep,fitness,health
+survival | During a disaster, check rumours against official sources before sharing | Rumor Response (FEMA) | disasters,communication,online-safety
+mind | Weigh a bet by the chance times the payoff | Expected value | decision-making,probability,mental-models
+world | A man did a weather forecast by hand and got it badly wrong | Weather Prediction by Numerical Process (Lewis Fry Richardson) | science,weather,math
+life | An evening workout usually will not wreck your sleep | Effects of evening exercise on sleep in healthy participants: a systematic review and meta-analysis (Jan Stutz and colleagues) | sleep,health,exercise
+survival | Download offline maps and save your phone battery on the trail | Hiking Safety (National Park Service) | hiking,navigation,outdoors
+mind | Stop researching when no answer would change your decision | Value of information | decision-making,thinking,planning
+world | A shared currency works best among economies that move together | Optimum currency area | economics,money,geopolitics
+life | A nightly bedtime routine helps young children sleep, and lifts parents' mood | A nightly bedtime routine: impact on sleep in young children and maternal mood (Jodi A. Mindell and colleagues) | sleep,parenting,habits
+survival | Never feed wildlife, because a fed animal loses its fear of people | Wildlife Safety (National Park Service) | wildlife,outdoors
+mind | We expect steady growth when things are doubling | Misperception of exponential growth (Willem A. Wagenaar and Sabato D. Sagaria) | biases,probability,thinking
+world | The Irish famine hit hard because one potato variety fed millions | Great Famine (Ireland) | history,food,biology
+life | Disagree in a way that keeps the other person listening | Conversational receptiveness: Improving engagement with opposing views (Michael Yeomans and colleagues) | communication,conflict,persuasion
+survival | Unbuckle your pack's hip belt before crossing a river | Mountaineering: The Freedom of the Hills (The Mountaineers) | hiking,outdoors,water-safety
+mind | Check whether you are being offered only two options | False dilemma | thinking,argument,biases
+world | A vault in Arctic permafrost holds backup copies of the world's seeds | Svalbard Global Seed Vault | food,environment,science
+life | Ask questions you genuinely do not know the answer to | Humble Inquiry: The Gentle Art of Asking Instead of Telling (Edgar H. Schein) | communication,listening,relationships
+survival | Lock your phone with a strong passcode and turn on remote find and erase | Cybersecurity Best Practices for Smartphone and Mobile Device Users (Cybersecurity and Infrastructure Security Agency) | online-safety,accounts,electronics
+mind | Judge the claim, not the person who made it | Ad hominem | thinking,argument,communication
+world | The last passenger pigeon died in a zoo in 1914 | Passenger pigeon | environment,history,biology
+life | People notice far less about you than you think | The spotlight effect in social judgment (Thomas Gilovich, Victoria Husted Medvec and Kenneth Savitsky) | communication,biases,empathy
+survival | Never pay a deposit for a rental you have not seen in person | Rental listing scams (Federal Trade Commission) | scams,money,online-safety
+mind | Changing the definition to dodge a counterexample is cheating | No true Scotsman | thinking,argument,beliefs
+world | Australia's rabbit plague was fought with a virus, and nature adapted | Rabbits in Australia | environment,biology,history
+life | Your nerves show much less than they feel | The illusion of transparency and the alleviation of speech anxiety (Kenneth Savitsky and Thomas Gilovich) | communication,stress,biases
+survival | If your identity is stolen, use IdentityTheft.gov for a recovery plan | Identity Theft (Federal Trade Commission, IdentityTheft.gov) | identity-theft,scams
+mind | Actions that are costly to fake tell you more than words | Job market signaling (Michael Spence) | mental-models,decision-making,economics
+world | The steam engine first spread because mines needed to drain water | Newcomen atmospheric engine | technology,energy,history
+life | Back and forth talk with a child matters more than the number of words | Beyond the 30-million-word gap: Children's conversational exposure is associated with language-related brain function (Rachel R. Romeo and colleagues) | parenting,communication,learning
+survival | Forward spam texts to 7726 instead of replying or clicking | How To Recognize and Report Spam Text Messages (Federal Trade Commission) | scams,communication,online-safety
+mind | To reach a higher peak, you sometimes have to step down first | Algorithms to Live By: The Computer Science of Human Decisions (Brian Christian and Tom Griffiths) | mental-models,problem-solving,creativity
+world | Ford's moving assembly line cut the time to build a car | Assembly line | business,history,technology
+life | Talk to yourself by name to handle stress better | Self-talk as a regulatory mechanism: How you do it matters (Ethan Kross and colleagues) | mental-health,stress,decision-making
+survival | Handle cyberbullying by saving proof, blocking and reporting | Report Cyberbullying (StopBullying.gov) | personal-safety,children,online-safety
+mind | The best remedy for anger is to wait | On Anger (De Ira) (Seneca) | stoicism,emotions,self-control
+world | China had paper money centuries before Europe, and then inflation | Jiaozi (currency) | money,history,economics
+life | Confident advice persuades, but one confident miss costs you | Cheap talk and credibility: The consequences of confidence and accuracy on advisor credibility and persuasiveness (Sunita Sah, Don A. Moore and Robert J. MacCoun) | communication,persuasion,career
+survival | Report online fraud to the FBI's IC3 with every detail you have | Internet Crime Complaint Center IC3 (Federal Bureau of Investigation) | scams,online-safety,money
+mind | Pick someone you admire and live as if they were watching | Letters from a Stoic (Letter 11) (Seneca) | stoicism,mindset,philosophy
+world | The Berlin Wall opened because an official misspoke at a press conference | Fall of the Berlin Wall | history,geopolitics,media
+life | One named person moves us more than a statistic | Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims (Deborah A. Small, George Loewenstein and Paul Slovic) | persuasion,communication,empathy
+survival | Verify anyone who says they are from your utility before opening the door | Utilities United Against Scams | scams,home-safety,personal-safety
+mind | Every situation has two handles, so pick the one you can carry | Enchiridion (Epictetus) | stoicism,relationships,mindset
+world | A battlefield witness gave us the Red Cross | Henry Dunant | history,health,safety
+life | Deals tend to be made at the deadline, so know yours | The deadline effect in bargaining: Some experimental evidence (Alvin E. Roth, J. Keith Murnighan and Francoise Schoumaker) | negotiation,time
+survival | If you are trapped under debris, tap and whistle instead of shouting | Earthquakes (Ready.gov, FEMA) | earthquakes,disasters,emergencies
+mind | What is bad for the group is bad for you too | Meditations (Book 6) (Marcus Aurelius) | stoicism,cooperation,philosophy
+world | The counties with the highest and lowest kidney cancer rates look alike | Thinking, Fast and Slow (Daniel Kahneman) | statistics,thinking,health
+life | Limiting your own options can make your position stronger | The Strategy of Conflict (Thomas C. Schelling) | negotiation,decision-making,problem-solving
+survival | Keep babies under six months out of direct sun | Sun Safety (HealthyChildren.org, American Academy of Pediatrics) | children,infants,sun
+mind | Draw your circles of concern and pull the outer ones closer | Hierocles (Stoic) | stoicism,philosophy,empathy
+world | In a room of 23 people, two likely share a birthday | Birthday problem | math,probability,thinking
+life | Talking through problems together can bond you and still make you feel worse | Co-rumination in the friendships of girls and boys (Amanda J. Rose) | friendship,mental-health,conflict
+survival | Keep candles 12 inches from anything that burns, and blow them out | Candle Safety (National Fire Protection Association) | fire,home-safety
+mind | The uselessness of a thing can be why it survives | The Complete Works of Zhuangzi (Zhuangzi (trans. Burton Watson)) | philosophy,mindset,happiness
+world | Science often advances by crisis and replacement, not by steady accumulation | The Structure of Scientific Revolutions (Thomas S. Kuhn) | science,history,thinking
+life | Write resume bullets as result, measure and method | Work Rules (Laszlo Bock) | career,communication,networking
+survival | Check tyre pressure once a month, using the number on the door placard | Tire Safety: Everything Rides on It (National Highway Traffic Safety Administration) | driving,safety
+mind | Learning without thinking is wasted, thinking without learning is risky | Analects (Confucius) | philosophy,learning,thinking
+world | Some questions no computer program can ever answer | On Computable Numbers, with an Application to the Entscheidungsproblem (Alan M. Turing) | math,technology,thinking
+life | Treat reversible decisions as fast, one-way decisions as slow | 2015 Letter to Shareholders (Amazon) (Jeff Bezos) | decision-making,career,productivity
+survival | Only certified eclipse glasses make it safe to look at the sun | Eclipse Safety (NASA) | eyes,sun,outdoors
+mind | Good judgement cannot be fully captured by rules | Nicomachean Ethics (Aristotle) | philosophy,decision-making,ethics
+world | The internet was switched to its common language on one day in 1983 | ARPANET | internet,technology,history
+life | Disagree and commit, so debate does not stall action | 2016 Letter to Shareholders (Amazon) (Jeff Bezos) | teams,career,conflict
+survival | Throw away mouldy soft food, because mould roots run deep | Molds on Food: Are They Dangerous? (USDA Food Safety and Inspection Service) | food-safety,health
+mind | Not all pleasures are equal in quality, said Mill | Utilitarianism (John Stuart Mill) | philosophy,happiness,decision-making
+world | Gene editing began as a bacterial defence against viruses | A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity (Martin Jinek, Krzysztof Chylinski, Ines Fonfara, Michael Hauer, Jennifer A. Doudna and Emmanuelle Charpentier) | science,biology,technology
+life | In a new role, win something early and make it visible | The First 90 Days (Michael D. Watkins) | career,learning,productivity
+survival | Thaw food in the fridge, cold water or microwave, never on the counter | Safe Thawing (USDA Food Safety and Inspection Service) | food-safety,cooking
+mind | Great harm can come from not thinking at all | Eichmann in Jerusalem: A Report on the Banality of Evil (Hannah Arendt) | philosophy,psychology,ethics
+world | Two doctors tied smoking to lung cancer by comparing patients | Richard Doll | health,science,history
+life | The best performer is not always the best person to promote | Promotions and the Peter Principle (Alan Benson, Danielle Li and Kelly Shue) | career,teams,decision-making
+survival | If you carry epinephrine, carry two doses | Food Allergy Research & Education: Epinephrine guidance (FARE) | first-aid,allergies,emergencies
+mind | Doubt what you can doubt, and see what is left | Meditations on First Philosophy (Rene Descartes) | philosophy,thinking,beliefs
+world | A tuberculosis trial in 1946 used sealed envelopes to assign patients fairly | Randomized controlled trial | health,science,statistics
+life | Measure your blood pressure at rest, not mid-rush | American Heart Association: How to measure your blood pressure at home (American Heart Association) | health,habits
+survival | In a dust storm, pull aside, lights off, foot off the brake | Pull Aside, Stay Alive (Arizona Department of Transportation) | driving,weather,emergencies
+mind | Vague writing is a sign of vague thinking | Politics and the English Language (George Orwell) | language,thinking,communication
+world | The Cuban missile crisis ended with a private deal as well as a public stand | Cuban Missile Crisis | history,geopolitics,nuclear
+life | Try your way into a new career instead of planning your way | Working Identity: Unconventional Strategies for Reinventing Your Career (Herminia Ibarra) | career,learning,goals
+survival | After cooling a burn, cover it loosely and leave blisters alone | Burns and scalds (NHS) | first-aid,burns
+mind | Show your principles in what you do, not what you say | Enchiridion (Section 46) (Epictetus) | stoicism,mindset,philosophy
+world | Water is vital and cheap while diamonds are useless and costly | Diamond-water paradox | economics,thinking,history
+life | Givers can finish at the top or the bottom, so give wisely | Give and Take: A Revolutionary Approach to Success (Adam Grant) | career,relationships,networking
+survival | Chocolate, grapes and xylitol can poison dogs, so call a vet fast | People Foods to Avoid Feeding Your Pets (ASPCA) | pets,poisoning,first-aid
+mind | The odd one out is the one you remember | Von Restorff effect | memory,psychology,learning
+world | Standard Oil was broken up under a law written for trusts | Sherman Antitrust Act | economics,history,business
+life | Know your partner's inner world with a love map | The Seven Principles for Making Marriage Work (John M. Gottman and Nan Silver) | relationships,listening,conflict
+survival | Do not give aspirin to children under 16 unless a doctor prescribes it | Aspirin for pain relief (NHS) | medicine,children,health
+mind | Most drivers say they are better than average | Are we all less risky and more skillful than our fellow drivers? (Ola Svenson) | biases,psychology,risk
+world | Darwin's finches were watched evolving in a single drought | The Beak of the Finch (Jonathan Weiner) | science,biology,history
+life | Hugs may help buffer the stress of conflict | Does hugging provide stress-buffering social support? A study of susceptibility to upper respiratory infection and illness (Sheldon Cohen and colleagues) | relationships,stress,health
+survival | A pill you did not get from a pharmacy may contain fentanyl | One Pill Can Kill (U.S. Drug Enforcement Administration) | overdose,poisoning,first-aid
+mind | Rejecting a new idea because it clashes with the old one | Semmelweis reflex | thinking,decision-making,biases
+world | The 1883 Krakatoa eruption was heard thousands of kilometres away | 1883 eruption of Krakatoa | history,science,disasters
+life | Savor good moments on purpose to make them last | Savoring: A New Model of Positive Experience (Fred B. Bryant and Joseph Veroff) | happiness,mental-health
+survival | If someone keeps following or contacting you, keep a dated log | Stalking Incident and Behavior Log (Stalking Prevention, Awareness, and Resource Center) | personal-safety,communication
+mind | Imagining how it could have been better teaches, and imagining worse comforts | Counterfactual thinking (Neal J. Roese) | thinking,emotions,learning
+world | Trade winds set the routes of the age of sail | Trade winds | geography,navigation,history
+life | Treat yourself the way you would treat a friend who failed | Self-compassion: An alternative conceptualization of a healthy attitude toward oneself (Kristin D. Neff) | mental-health,stress,happiness
+survival | Clip on the engine cut-off lanyard when you drive a small boat | Engine Cut-Off Switches (U.S. Coast Guard) | boating,water-safety

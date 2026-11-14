@@ -1218,3 +1218,203 @@ mind | Imagining how it could have been better teaches, and imagining worse comf
 world | Trade winds set the routes of the age of sail | Trade winds | geography,navigation,history
 life | Treat yourself the way you would treat a friend who failed | Self-compassion: An alternative conceptualization of a healthy attitude toward oneself (Kristin D. Neff) | mental-health,stress,happiness
 survival | Clip on the engine cut-off lanyard when you drive a small boat | Engine Cut-Off Switches (U.S. Coast Guard) | boating,water-safety
+mind | Your most confident mistakes are the easiest to correct | Errors committed with high confidence are hypercorrected (Brady Butterfield and Janet Metcalfe) | learning,memory,biases
+world | London was rebuilt in brick after the Great Fire of 1666 | Great Fire of London | history,cities,safety
+life | Investors sell their winners too soon and hold their losers too long | Are Investors Reluctant to Realize Their Losses? (Terrance Odean, Journal of Finance, 1998) (Terrance Odean) | money,investing,biases
+survival | For a deep wound, pack it with gauze and press hard | Stop the Bleed (U.S. Department of Homeland Security) | first-aid,bleeding
+mind | Guess before you learn, even when you will be wrong | Unsuccessful retrieval attempts enhance subsequent learning (Nate Kornell, Matthew J. Hays and Robert A. Bjork) | learning,memory
+world | For a while, lower unemployment seemed to buy higher inflation | Phillips curve | economics,policy,history
+life | Give every dollar a job before the month begins | Zero-based budgeting | money,budgeting,habits
+survival | A sudden headache that feels like the worst ever needs a call | Thunderclap headache | first-aid,emergencies,health
+mind | Teaching to your preferred learning style is not shown to help | Learning Styles: Concepts and Evidence (Harold Pashler, Mark McDaniel, Doug Rohrer and Robert Bjork) | learning,brain,beliefs
+world | A tax rate of zero and one of 100 percent both raise nothing | Laffer curve | economics,policy,money
+life | A cheap item that wears out can cost more than a dear one that lasts | Boots theory | money,spending,decision-making
+survival | After a poisoning, do not make the person vomit | Poisoning first aid (MedlinePlus (U.S. National Library of Medicine)) | first-aid,poisoning
+mind | Remembering one thing can make you forget its neighbors | Remembering can cause forgetting: Retrieval dynamics in long-term memory (Michael C. Anderson, Robert A. Bjork and Elizabeth L. Bjork) | memory,learning
+world | Britain and France invaded Egypt in 1956 and were stopped by America | Suez Crisis | history,geopolitics,money
+life | You can cancel many door-to-door purchases within three days | Cooling-Off Rule (US Federal Trade Commission) (Federal Trade Commission) | money,consumer-rights,shopping
+survival | A cut that gapes, spurts or will not stop needs professional care | Cuts and grazes (NHS) | first-aid,wounds
+mind | We often stop wanting what we cannot get and call it wisdom | Sour Grapes: Studies in the Subversion of Rationality (Jon Elster) | psychology,beliefs,philosophy
+world | The word gerrymander comes from a salamander-shaped district | Gerrymandering | politics,history,math
+life | Insure the losses you cannot absorb, not the ones you can | Deductible | money,insurance,risk
+survival | After a head injury, repeated vomiting or drowsiness means call | Head injury (NHS) | first-aid,injuries,concussion
+mind | The words you have can set the edges of what you can think | Tractatus Logico-Philosophicus (Ludwig Wittgenstein) | philosophy,language,thinking
+world | Winner-takes-all elections tend to produce two big parties | Duverger's law | politics,game-theory,policy
+life | You value what you own more than what you would pay for it | Experimental Tests of the Endowment Effect and the Coase Theorem (Daniel Kahneman, Jack L. Knetsch and Richard H. Thaler, Journal of Political Economy, 1990) (Daniel Kahneman, Jack L. Knetsch and Richard H. Thaler) | money,biases,decision-making
+survival | In extreme heat a fan alone will not keep you safe | Extreme Heat (Centers for Disease Control and Prevention) | heat,health,emergencies
+mind | Belonging is a basic need, not a luxury | The need to belong: Desire for interpersonal attachments as a fundamental human motivation (Roy F. Baumeister and Mark R. Leary) | social,psychology,happiness
+world | China's oil route runs through a strait it does not control | Malacca dilemma | geopolitics,trade,energy
+life | A named beneficiary can override what your will says | Probate | money,planning,family
+survival | Read the food label every time, because recipes change | Food Allergies: What You Need to Know (U.S. Food and Drug Administration) | first-aid,allergies,children
+mind | Challenge the 'hypocrite' before you challenge the advice | Tu quoque | biases,thinking,communication
+world | Noise-cancelling headphones fight sound with its mirror image | Active noise control | physics,technology,engineering
+life | A target-date fund shifts toward safer assets as your retirement year nears | Investor Bulletin: Target Date Retirement Funds (US Securities and Exchange Commission, Investor.gov) (US Securities and Exchange Commission) | money,investing,retirement
+survival | Never give honey to a baby under one year old | Botulism (Centers for Disease Control and Prevention) | infants,food-safety,health
+mind | Filtering a group can create a link that was never there | Berkson's paradox | thinking,biases,statistics
+world | An MRI scanner images you with magnets and radio waves, not X-rays | Magnetic resonance imaging | physics,science,health
+life | Cosigning a loan makes you fully responsible for it | Cosigning a Loan (US Federal Trade Commission, consumer advice) (Federal Trade Commission) | money,debt,relationships
+survival | A window screen keeps out bugs, not children | Window Safety (Safe Kids Worldwide) | children,home-safety,falls
+mind | Run twenty tests and one will probably look like a discovery | Multiple comparisons problem | statistics,thinking,probability
+world | Tree rings give an exact calendar of past years | Dendrochronology | science,earth,history
+life | Payment history is the largest slice of a FICO credit score | What's in my FICO Scores? (myFICO, Fair Isaac Corporation) (Fair Isaac Corporation) | money,debt,credit
+survival | Empty the bucket, the bath and the paddling pool after use | Drowning (World Health Organization) | children,water-safety,drowning
+mind | A plan built on the average can fail when the spread is wide | The Flaw of Averages: Why We Underestimate Risk in the Face of Uncertainty (Sam L. Savage) | statistics,risk,planning
+world | Ice cores hold ancient air in tiny bubbles | Ice core | science,climate,earth
+life | Where you give matters as much as how much you give | The why and how of effective altruism (Peter Singer, TED, 2013) (Peter Singer) | money,giving,happiness
+survival | Keep raw meat and ready to eat food on separate boards | Four Steps to Food Safety: Separate (FoodSafety.gov) | food-safety,home-safety,cooking
+mind | Look for loops that amplify and loops that balance | Thinking in Systems: A Primer (Donella H. Meadows) | systems,mental-models,thinking
+world | There is no sharp edge to space, only an agreed line at 100 kilometres | Kármán line | space,science,physics
+life | Investors often earn less than the funds they own | Mind the Gap (Morningstar) (Morningstar) | money,investing,behavior
+survival | Climb high, sleep low to let your body adjust | Altitude sickness | hiking,outdoors,altitude
+mind | Protect a safe base, then place a few small bets on big upside | Antifragile: Things That Gain from Disorder (Nassim Nicholas Taleb) | risk,mental-models,investing
+world | Planets are found by watching a star dim a tiny bit | Transit (astronomy) | space,science,math
+life | A weekend of workouts can count about as much as a spread-out week | Association of 'Weekend Warrior' and Other Leisure Time Physical Activity Patterns With Risks for All-Cause, Cardiovascular Disease, and Cancer Mortality (Gary O'Donovan and colleagues, JAMA Internal Medicine, 2017) (Gary O'Donovan and colleagues) | health,exercise,habits
+survival | Gather tinder, kindling and fuel before you strike a match | Campfire | camping,outdoors,fire
+mind | Break a problem down to what must be true and build back up | First principle | mental-models,problem-solving,thinking
+world | Apollo 13 was saved by an air filter made of tape | Apollo 13 | space,engineering,history
+life | Eating in a short window did not beat simply eating less | Calorie Restriction with or without Time-Restricted Eating in Weight Loss (Deying Liu and colleagues, New England Journal of Medicine, 2022) (Deying Liu and colleagues) | health,nutrition,weight
+survival | Wear blaze orange in hunting season, even if you are only hiking | Blaze orange | outdoors,hiking,safety
+mind | Before you take a shortcut, ask what if everyone did it | Groundwork of the Metaphysics of Morals (Immanuel Kant) | philosophy,ethics,decision-making
+world | A West African king spent so much gold that Cairo's gold price fell | Mansa Musa | history,money,trade
+life | Sore muscles are not proof of a good workout | Delayed onset muscle soreness | health,exercise,muscle
+survival | In deep powder, never ski the trees alone | Tree Well and Deep Snow Immersion Hazard (Northwest Avalanche Center) | outdoors,winter,avalanches
+mind | Your freedom to act ends where you harm someone else | On Liberty (John Stuart Mill) | philosophy,ethics,relationships
+world | William the Conqueror ordered a survey of every farm in England | Domesday Book | history,politics,economics
+life | An awe walk lifts your mood more than a plain walk | Big Smile, Small Self: Awe Walks Promote Prosocial Positive Emotions in Older Adults (Virginia E. Sturm and colleagues, Emotion, 2020) (Virginia E. Sturm and colleagues) | health,mental-health,walking
+survival | Pale yellow urine is a free hydration check | Dehydration (NHS) | health,outdoors,hiking
+mind | If you would save a child in a pond, ask why distance matters | Famine, Affluence, and Morality (Peter Singer) | ethics,philosophy,decision-making
+world | Japan sent its leaders abroad for two years to learn how others governed | Iwakura Mission | history,politics,geopolitics
+life | Your family's health history is a free screening tool | Family Health History (US Centers for Disease Control and Prevention) (Centers for Disease Control and Prevention) | health,prevention,family
+survival | On a rugged coast, never turn your back on the ocean | Sneaker wave | beaches,water-safety,weather
+mind | The best answer to a wrongdoer is not to become one | Meditations (Book 6) (Marcus Aurelius) | stoicism,philosophy,emotions
+world | China chose officials by exam for well over a thousand years | Imperial examination | history,politics,work
+life | Ask whether a test or treatment will change what you do | Five Questions to Ask Your Doctor Before You Get Any Test, Treatment or Procedure (Choosing Wisely, ABIM Foundation) (Choosing Wisely) | health,medicine,decision-making
+survival | In winter, keep your fuel tank at least half full | Winter Weather (Ready.gov (FEMA)) | driving,winter,preparedness
+mind | A crowd leaves a mark on you, so choose which ones | Letters from a Stoic (Letter 7) (Seneca) | stoicism,philosophy,social
+world | Typhoid Mary showed that healthy people can spread disease | Mary Mallon | health,history,science
+life | Stop most sets one or two reps before failure | Application of the Repetitions in Reserve-Based Rating of Perceived Exertion Scale for Resistance Training (Eric R. Helms and colleagues, Strength and Conditioning Journal, 2016) (Eric R. Helms and colleagues) | health,fitness,muscle
+survival | Keep a two second gap in the dry and double it in rain | The Highway Code: Stopping distances (UK Government) | driving,safety
+mind | Your experience is made of what you choose to attend to | The Principles of Psychology (William James) | attention,psychology,focus
+world | One reviewer's doubts kept thalidomide out of the United States | Thalidomide scandal | health,history,policy
+life | For a sprain, protect first and then load it, not just rest and ice | Soft-tissue injuries simply need PEACE and LOVE (Blaise Dubois and Jean-Francois Esculier, British Journal of Sports Medicine, 2020) (Blaise Dubois and Jean-Francois Esculier) | health,injuries,sports
+survival | In fog, use low beams, not high beams | Fog Safety (National Weather Service) | driving,weather
+mind | Yielding can outlast force, the way water wears down stone | Tao Te Ching (Laozi) | philosophy,mindset
+world | A giant underground reservoir under the Great Plains is being drained | Ogallala Aquifer | water,environment,food
+life | The best diet is the one you actually keep following | Comparison of the Atkins, Ornish, Weight Watchers, and Zone Diets for Weight Loss and Heart Disease Risk Reduction (Michael L. Dansinger and colleagues, JAMA, 2005) (Michael L. Dansinger and colleagues) | health,nutrition,weight
+survival | Take off the puffy coat before you buckle a child in | Winter Coats and Car Seats (American Academy of Pediatrics) | children,driving,winter
+mind | Choose who you eat with before you choose what you eat | Letters from a Stoic (Letter 19) (Seneca) | stoicism,philosophy,relationships
+world | Charging drivers to enter a city centre made traffic fall | Congestion pricing | cities,economics,policy
+life | For healthy adults, multivitamins have not been shown to prevent disease | Vitamin, Mineral, and Multivitamin Supplementation to Prevent Cardiovascular Disease and Cancer (US Preventive Services Task Force, 2022) (US Preventive Services Task Force) | health,nutrition,medicine
+survival | Railway tracks are never a shortcut | Rail Safety (Operation Lifesaver) | trains,safety,travel
+mind | Picture your mind as a charioteer steering two horses | Phaedrus (Plato) | philosophy,self-control,emotions
+world | Software tends to copy the shape of the team that built it | Conway's law | technology,business,systems
+life | Swap saturated fat for unsaturated fat when you cook | Healthy diet (World Health Organization fact sheet) (World Health Organization) | health,nutrition,food
+survival | Keep your seat belt on whenever you sit on a plane | Clear-air turbulence | flying,travel,safety
+mind | Would you live this exact life again, forever? | The Gay Science (Section 341) (Friedrich Nietzsche) | philosophy,meaning,mindset
+world | Adding people to a late project can make it later | The Mythical Man-Month (Frederick P. Brooks Jr.) | business,work,math
+life | For long-term insomnia, therapy is the first treatment to try | Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians (Amir Qaseem and colleagues, Annals of Internal Medicine, 2016) (Amir Qaseem and colleagues) | sleep,insomnia,mental-health
+survival | Attend the muster drill on a ship | Muster station | travel,emergencies,preparedness
+mind | Text that is easy to read feels more true | Effects of perceptual fluency on judgments of truth (Rolf Reber and Norbert Schwarz) | perception,biases,communication
+world | Five rich nations agreed in a hotel to push the dollar down in 1985 | Plaza Accord | economics,money,history
+life | Watching the clock at night keeps you awake | Sleeping with the enemy: clock monitoring in the maintenance of insomnia (Nicole K. Y. Tang, D. Anne Schmidt and Allison G. Harvey, Journal of Behavior Therapy and Experimental Psychiatry, 2007) (Nicole K. Y. Tang, D. Anne Schmidt and Allison G. Harvey) | sleep,insomnia,habits
+survival | Choose two meeting places before a disaster | Make a Plan (Ready.gov (FEMA)) | preparedness,family,evacuation
+mind | Specific, hard goals beat 'do your best' | Building a practically useful theory of goal setting and task motivation (Edwin A. Locke and Gary P. Latham) | goals,motivation,performance
+world | Thailand's currency crash in 1997 spread across Asia | 1997 Asian financial crisis | economics,money,banking
+life | The first night in a new place is lighter, because half your brain stands guard | Night Watch in One Brain Hemisphere during Sleep Associated with the First-Night Effect in Humans (Masako Tamaki and colleagues, Current Biology, 2016) (Masako Tamaki and colleagues) | sleep,travel,brain
+survival | Keep a little cash at home for when card readers fail | Build A Kit (Ready.gov (FEMA)) | preparedness,money,power-outages
+mind | Far-off events are thought of as why, near ones as how | Construal-level theory of psychological distance (Yaacov Trope and Nira Liberman) | psychology,planning,thinking
+world | Toyota let any worker stop the whole assembly line | Toyota Production System | business,engineering,work
+life | Children need more sleep than most parents think | Recommended Amount of Sleep for Pediatric Populations (Shalini Paruthi and colleagues, Journal of Clinical Sleep Medicine, 2016) (Shalini Paruthi and colleagues) | sleep,children,parenting
+survival | In volcanic ash, protect your eyes and lungs | Volcanic Ash: What to Do (U.S. Geological Survey) | disasters,air-quality,health
+mind | Deadlines pull you toward small tasks, even when bigger ones pay more | The Mere Urgency Effect (Meng Zhu, Yang Yang and Christopher K. Hsee) | productivity,biases,prioritization
+world | The postage stamp made the sender pay, and mail became cheap | Penny Post | history,technology,money
+life | What is printed on a melatonin label may not match what is inside | Melatonin Natural Health Products and Supplements: Presence of Serotonin and Significant Variability of Melatonin Content (Lauren A. Erland and Praveen K. Saxena, Journal of Clinical Sleep Medicine, 2017) (Lauren A. Erland and Praveen K. Saxena) | sleep,health,supplements
+survival | A pet microchip only works if the registry has your number | Microchips for Dogs and Cats (American Veterinary Medical Association) | pets,preparedness,emergencies
+mind | Feeling safer can make you take more risk | Risk compensation | risk,biases,behavior-design
+world | The first transatlantic telegraph cable broke within weeks | Transatlantic telegraph cable | history,technology,internet
+life | Waking in the night may be normal, not a sign you are broken | Segmented sleep | sleep,history,stress
+survival | A text about a missed package is a classic scam | How To Recognize and Avoid Phishing Scams (Federal Trade Commission) | online-safety,scams,phishing
+mind | Some anxious people do best by rehearsing what could go wrong | Defensive pessimism: Harnessing anxiety as motivation (Nancy Cantor and Julie K. Norem) | anxiety,mindset,planning
+world | A judge in India noticed that Sanskrit, Greek and Latin were related | Indo-European languages | language,history,science
+life | People scan online text, so make the scanning easy | How Users Read on the Web (Jakob Nielsen, Nielsen Norman Group, 1997) (Jakob Nielsen) | communication,writing,technology
+survival | Your flashlight app does not need your contacts | Surveillance Self-Defense (Electronic Frontier Foundation) | online-safety,privacy,electronics
+mind | A craving rises, peaks and fades, even if you do nothing | Surfing the urge: Brief mindfulness-based intervention for college student smokers (Sarah Bowen and G. Alan Marlatt) | self-control,emotions,habits
+world | A siren changes pitch as it passes because its sound waves bunch up | Doppler effect | physics,science,space
+life | Hedge your claims and the other side listens longer | Conversational Receptiveness: Improving Engagement with Opposing Views (Michael Yeomans and colleagues, Organizational Behavior and Human Decision Processes, 2020) (Michael Yeomans and colleagues) | communication,argument,persuasion
+survival | Check the spelling of a web address before you log in | Typosquatting | online-safety,phishing,accounts
+mind | Saving 2,000 or 200,000 can feel about equally important | Scope neglect | biases,psychology,ethics
+world | A London footbridge wobbled because the crowd began to move in step | Millennium Bridge, London | engineering,physics,cities
+life | Say something concrete and people remember it | Made to Stick: Why Some Ideas Survive and Others Die (Chip Heath and Dan Heath) | communication,persuasion,memory
+survival | If your phone warns of an unknown tracker, take it seriously | Technology Safety (National Network to End Domestic Violence (Safety Net)) | personal-safety,online-safety,privacy
+mind | A thirty-second look predicts ratings, but it also tracks looks | Half a minute: Predicting teacher evaluations from thin slices of nonverbal behavior and physical attractiveness (Nalini Ambady and Robert Rosenthal) | intuition,judgment,social
+world | Double an animal's size and its weight grows eight times | Square-cube law | science,physics,biology
+life | Name the exact thing you liked when you praise someone | Teacher Praise: A Functional Analysis (Jere E. Brophy, Review of Educational Research, 1981) (Jere E. Brophy) | communication,feedback,relationships
+survival | Tell children they will never be in trouble for telling you | NetSmartz (National Center for Missing and Exploited Children) | children,online-safety,family
+mind | Rate each part separately before you form a whole impression | Noise: A Flaw in Human Judgment (Daniel Kahneman, Olivier Sibony and Cass R. Sunstein) | judgment,decision-making,noise
+world | Aluminium was once priced above gold, even though it is everywhere | Aluminium | science,history,technology
+life | Directness means different things in different cultures | The Culture Map: Breaking Through the Invisible Boundaries of Global Business (Erin Meyer) | communication,negotiation,culture
+survival | Store your account recovery codes offline before you lose your phone | Sign in with backup codes (Google Account Help) | accounts,online-safety,backups
+mind | Corrections usually work, and the backfire effect is rare | The elusive backfire effect: Mass attitudes' steadfast factual adherence (Thomas Wood and Ethan Porter) | beliefs,psychology,communication
+world | Bark from an Andean tree gave the world its first malaria medicine | Quinine | health,history,science
+life | Look up the going rate before you ask for pay | Occupational Outlook Handbook (US Bureau of Labor Statistics) (US Bureau of Labor Statistics) | negotiation,career,money
+survival | If ransomware hits, disconnect, call for help and do not rush to pay | StopRansomware Guide (Cybersecurity and Infrastructure Security Agency) | online-safety,work,emergencies
+mind | There is no evidence that you are a left-brain or right-brain person | An evaluation of the left-brain vs. right-brain hypothesis with resting state functional connectivity magnetic resonance imaging (Jared A. Nielsen, Brandon A. Zielinski, Michael A. Ferguson, Janet E. Lainhart and Jeffrey S. Anderson) | brain,beliefs,psychology
+world | The Great Pyramid was probably built by paid workers, not slaves | Great Pyramid of Giza | history,work,science
+life | Make it easy to say no and they are more open to saying yes | Never Split the Difference: Negotiating As If Your Life Depended On It (Chris Voss and Tahl Raz) | negotiation,communication,persuasion
+survival | Do not hold a secure door open for a stranger | Piggybacking (security) | personal-safety,work,awareness
+mind | Brain-training games make you better at the games | Do 'Brain-Training' Programs Work? (Daniel J. Simons and colleagues) | brain,learning,skill
+world | Ancient Athens chose many officials by lottery | Sortition | politics,history,cooperation
+life | Makers need long blocks, managers run on hourly slots | Maker's Schedule, Manager's Schedule (Paul Graham, 2009) (Paul Graham) | career,productivity,focus
+survival | Know where the pool's emergency shut-off is and keep hair away from drains | Pool Safely (U.S. Consumer Product Safety Commission) | water-safety,home-safety,children
+mind | Much of what is said about 'people' comes from a narrow slice of them | The weirdest people in the world? (Joseph Henrich, Steven J. Heine and Ara Norenzayan) | psychology,science,social
+world | Finland stayed free next to the Soviet Union by avoiding offence | Finlandization | geopolitics,history,politics
+life | After every project, ask four questions about what happened | After-action review | career,teams,learning
+survival | Never warm up a car inside a garage, even with the door open | Carbon monoxide poisoning | carbon-monoxide,home-safety,driving
+mind | Before you split a deal, look for ways to make it bigger | Getting to Yes: Negotiating Agreement Without Giving In (Roger Fisher and William Ury) | negotiation,problem-solving,cooperation
+world | Europe began its union by pooling coal and steel so war was impossible | Schuman Declaration | history,geopolitics,trade
+life | Quit the dead end, but push through the dip | The Dip: A Little Book That Teaches You When to Quit (and When to Stick) (Seth Godin) | career,decision-making,motivation
+survival | Swept into a rapid? Float on your back, feet downstream | American Whitewater Safety Code (American Whitewater) | outdoors,water-safety,boating
+mind | You read minds worse than you think, so ask | Mindwise: Why We Misunderstand What Others Think, Believe, Feel, and Want (Nicholas Epley) | empathy,relationships,communication
+world | Alaska pays every resident a yearly cheque from oil money | Alaska Permanent Fund | economics,policy,money
+life | Stand-up meetings are shorter and decide just as well | The effects of stand-up and sit-down meeting formats on meeting outcomes (Allen C. Bluedorn, Daniel B. Turban and Mary Sue Love, Journal of Applied Psychology, 1999) (Allen C. Bluedorn, Daniel B. Turban and Mary Sue Love) | career,teams,productivity
+survival | In a crisis, do the next right thing | Deep Survival (Laurence Gonzales) | mindset,outdoors,emergencies
+mind | Replace 'perfect or failed' with a score out of ten | Cognitive distortion | emotions,thinking,mindset
+world | Muhammad Yunus began by lending a few dollars to village women | Grameen Bank | economics,money,banking
+life | Little control over your work is bad for your heart | Low job control and risk of coronary heart disease in Whitehall II (prospective cohort) study (Hans Bosma and colleagues, BMJ, 1997) (Hans Bosma and colleagues) | career,stress,health
+survival | See a dog in a hot car? Call for help first | Dogs in hot cars (RSPCA) | pets,heat,emergencies
+mind | A feeling is information about you, not proof about the world | Cognitive distortion | emotions,thinking,anxiety
+world | Y2K was a real bug that took years of work to fix | Year 2000 problem | technology,systems,safety
+life | Track your hours for a week to see where they really go | 168 Hours: You Have More Time Than You Think (Laura Vanderkam) | career,time,productivity
+survival | For a suspected black widow bite, wash it, cool it and call poison control | Venomous Spiders (Centers for Disease Control and Prevention (NIOSH)) | first-aid,wildlife,poisoning
+mind | Feeling like a fraud is common among people doing well | The impostor phenomenon in high achieving women: Dynamics and therapeutic intervention (Pauline Rose Clance and Suzanne Ament Imes) | psychology,self-awareness,mindset
+world | A radiation machine overdosed patients because software replaced a safety lock | Therac-25 | technology,safety,engineering
+life | Write down your next three decisions before a long meeting starts | Death by Meeting (Patrick Lencioni) | productivity,communication
+survival | After a scare in the water, watch for breathing trouble and get checked | Drowning Prevention (American Academy of Pediatrics) | water-safety,children,first-aid
+mind | Curiosity grows when you know a little, not nothing | The psychology of curiosity: A review and reinterpretation (George Loewenstein) | psychology,learning,motivation
+world | A rocket blew up because a number did not fit in its box | Ariane flight V88 | technology,engineering,space
+life | Your early bonds shape how you handle closeness as an adult | Romantic love conceptualized as an attachment process (Cindy Hazan and Phillip Shaver, Journal of Personality and Social Psychology, 1987) (Cindy Hazan and Phillip Shaver) | relationships,psychology,love
+survival | Put fireplace ashes in a metal bucket outside, they stay hot for days | Fireplace and Chimney Safety (U.S. Fire Administration) | fire,home-safety,heating
+mind | A claim that one step leads to disaster needs proof for each step | Slippery slope | argument,thinking,biases
+world | Hubble's mirror was flawed by about two micrometres, and a repair fixed it | Hubble Space Telescope | space,engineering,science
+life | Happiness spreads through your social circle | Dynamic spread of happiness in a large social network: longitudinal analysis over 20 years in the Framingham Heart Study (James H. Fowler and Nicholas A. Christakis, BMJ, 2008) (James H. Fowler and Nicholas A. Christakis) | relationships,happiness,social
+survival | Never heat your home with the oven or a gas stove | Carbon Monoxide Poisoning Prevention (Centers for Disease Control and Prevention) | carbon-monoxide,heating,home-safety
+mind | Check whether a key word changes meaning halfway through | Equivocation | argument,language,thinking
+world | After a total blackout, the grid has to restart from nothing | Black start | energy,engineering,systems
+life | Do five kind acts in one day, not one a day | Pursuing happiness: The architecture of sustainable change (Sonja Lyubomirsky, Kennon M. Sheldon and David Schkade, Review of General Psychology, 2005) (Sonja Lyubomirsky, Kennon M. Sheldon and David Schkade) | relationships,kindness,happiness
+survival | Cannot speak on an emergency call? Stay on the line, and in the UK press 55 | 999 (emergency telephone number) | emergencies,communication,personal-safety
+mind | Ask what evidence was left out, not only what was shown | Cherry picking | argument,statistics,thinking
+world | One volcano in 1991 cooled the whole planet for a year or two | 1991 eruption of Mount Pinatubo | climate,earth,science
+life | Read aloud to a child from infancy | Literacy Promotion: An Essential Component of Primary Care Pediatric Practice (American Academy of Pediatrics, 2014) (American Academy of Pediatrics) | relationships,parenting,children
+survival | Install apps only from official stores and check the publisher | Sideloading | online-safety,electronics,accounts
+mind | What a teacher expects can nudge what a student does, a little | Pygmalion in the Classroom (Robert Rosenthal and Lenore Jacobson) | psychology,expectations,teaching
+world | Two spacecraft carry golden records of Earth into interstellar space | Voyager Golden Record | space,history,science
+life | Tell your family what care you would want before a crisis | The Conversation Project (Institute for Healthcare Improvement) (Institute for Healthcare Improvement) | relationships,family,planning
+survival | The padlock in your browser means private, not trustworthy | HTTPS | online-safety,scams,accounts
+mind | One good day does not make a good life | Nicomachean Ethics (Aristotle) | philosophy,happiness,character
+world | A secret 1916 deal divided Ottoman lands between Britain and France | Sykes-Picot Agreement | history,geopolitics,politics
+life | Volunteering is linked to living longer | Volunteering by older adults and risk of mortality: A meta-analysis (Morris A. Okun and colleagues, Psychology and Aging, 2013) (Morris A. Okun and colleagues) | relationships,health,kindness
+survival | Older people can get hypothermia indoors, so keep rooms warm | Keep warm, keep well (NHS) | older-adults,cold,health
+mind | You may learn what you value by watching what you do | Self-perception theory (Daryl J. Bem) | psychology,self-awareness,beliefs
+world | Roman roads were built in layers with ditches for water | Roman road | history,engineering,trade
+life | Make a family media plan together | Family Media Plan (American Academy of Pediatrics, HealthyChildren.org) (American Academy of Pediatrics) | relationships,children,technology
+survival | Swim with a buddy and keep each other in sight | Buddy system | water-safety,beaches,safety

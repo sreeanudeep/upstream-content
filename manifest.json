@@ -56,6 +56,14 @@
    "bytes": 251936,
    "sha256": "fe9325b269e4f92ee301dcc55cd4e6baadcb5da8e6712ae9e5ca51d3dfeb73ee",
    "publishedAt": "2026-11-07"
+  },
+  {
+   "id": "2026-w46",
+   "path": "packs/2026-w46.json",
+   "count": 200,
+   "bytes": 244726,
+   "sha256": "fcf2465c33a60362670eba63129d369f23391613712e8b5ab563a697ac18aa35",
+   "publishedAt": "2026-11-14"
   }
  ],
  "journeys": [
@@ -130,6 +138,15 @@
    "bytes": 9842,
    "sha256": "e7401f9d307941d8d7c5130e5751ff397086209bf5f6675772c1da27157ad4d0",
    "publishedAt": "2026-11-07"
+  },
+  {
+   "id": "j-2026-w46-stop-procrastinating",
+   "path": "journeys/j-2026-w46-stop-procrastinating.json",
+   "title": "Stop putting off the task you keep avoiding",
+   "steps": 6,
+   "bytes": 9067,
+   "sha256": "b9f6723eba08502bd2ba724e34b62d383498ec3dd5fcb4f0491c48545730fb49",
+   "publishedAt": "2026-11-14"
   }
  ]
 }
